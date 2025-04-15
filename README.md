@@ -85,6 +85,8 @@ unetbootin-linux-702.bin </br>
  displayed an icon, because it was stored in cache from previous test using NV137 driver, </br>
  icon does Not load anymore on NV126, after copy other .appimage to folder. </br>
 
+-----------
+
 #### PASS 20.04.4 LTS + NV126: </br>
 [audacity-linux-3.7.1-x64-22.04 to 3.7.3](https://github.com/audacity/audacity/releases/) </br> 
 3.7.1-20.04 icon FAIL, app works. </br>
