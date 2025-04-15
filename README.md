@@ -96,13 +96,13 @@ unetbootin-linux-702.bin </br>
 
 [qbittorrent-5.0.3-lt20-x86-64](https://www.appimagehub.com/p/2259406) unofficial appimage icon works, but App does Not, only 4.6.7 work in 20.04 LTS </br>
 [rpcs3-v0.0.36-17765-ddf684c4_linux64](https://github.com/RPCS3/rpcs3/releases) </br>
-rpcs3-v0.0.36-17766-58714d8c_linux64 </br>
+[rpcs3-v0.0.36-17766-58714d8c_linux64](https://rpcs3.net/compatibility?b) </br>
 rpcs3-v0.0.36-17767-16036e04_linux64 </br>
 rpcs3-v0.0.36-17768-e4d84e2c_linux64 </br>
 rpcs3-v0.0.36-17769-87d8bebd_linux64 </br>
 rpcs3-v0.0.36-17771-d0861088_linux64 </br>
 rpcs3-v0.0.36-17772-15758171_linux64 </br>
-rpcs3-v0.0.36-17773-db855951_linux64 </br>
+[rpcs3-v0.0.36-17773-db855951_linux64](https://github.com/RPCS3/rpcs3-binaries-linux/releases?q=build-db85595124d486792b6efaef1f0ef46384514a99&expanded=true) </br>
 
 scribus-1.6.3-linux-x86_64 </br>
 scribus-1.7.0-linux-x86_64 </br>
