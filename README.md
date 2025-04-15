@@ -86,7 +86,9 @@ kmidimon-1.4.1-x86_64 </br>
 system icon: </br>
 warpinator-android_1.4.6.apk </br>
 xyz.pearos.pairdrop.apk </br>
+,exe installers like Nvidia or AMD drivers. </br>
 
+Links: </br>
 https://github.com/pkgforge-dev/mpv-AppImage </br>
 https://github.com/mpv-player/mpv </br>
 TBA... </br>
