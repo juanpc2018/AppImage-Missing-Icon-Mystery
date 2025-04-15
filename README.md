@@ -52,6 +52,7 @@ PreRelease-5 also has a [PDF](https://github.com/AppImage/AppImageKit/releases/d
 
 P400 requires a fast board & CPU, Nouveau driver NV137 lacks optimization, has poor video playback on YouTube, skips frames, etc... </br>
 latest Windows8.1x64 driver works better, but... sometimes crash & reboots the system. </br>
+seems FireFox minimum Requirements are 8-core CPU and gpu with 4GB of VRAM. </br>
 
 20.04 also has i386 installed, have to test again without i386 </br>
 but seems 32-Bit AppImages only run in 32-Bit OS, </br>
