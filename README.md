@@ -41,14 +41,14 @@ PreRelease-5 also has a [PDF](https://github.com/AppImage/AppImageKit/releases/d
 
 
 ### NV137 gpus tested:  </br>
-GTX 1050 Ti </br>
-[Quadro P400](https://www.techpowerup.com/gpu-specs/quadro-p400.c2934) </br>
+[GTX 1050 Ti (2016)](https://www.techpowerup.com/gpu-specs/geforce-gtx-1050-ti.c2885) </br>
+[Quadro P400 /2017(](https://www.techpowerup.com/gpu-specs/quadro-p400.c2934) </br>
 
 ### NV126 gpus tested: </br>
-Quadro M2000 </br>
+[Quadro M2000 (2016)](https://www.techpowerup.com/gpu-specs/quadro-m2000.c2837) </br>
 
 ### FAIL: </br>
-[Quadro 6000 (2010)](https://www.techpowerup.com/gpu-specs/quadro-6000.c896) Nouveau driver has "Pink Screen of Death" in 20.04.4 LTS </br>
+[Quadro 6000 (2010)](https://www.techpowerup.com/gpu-specs/quadro-6000.c896) Nouveau driver has "Pink Screen of Death" on 20.04.4 LTS </br>
 
 P400 requires a fast board & CPU, Nouveau driver NV137 lacks optimization, has poor video playback on YouTube, skips frames, etc... </br>
 latest Windows8.1x64 driver works better, but... sometimes crash & reboots the system. </br>
