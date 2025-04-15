@@ -95,6 +95,7 @@ unetbootin-linux-702.bin </br>
 3.7.2 & 3.7.3 -20.04 & -22.04 Work ok. </br>
 
 [qbittorrent-5.0.3-lt20-x86-64](https://www.appimagehub.com/p/2259406) unofficial appimage icon works, but App does Not, only 4.6.7 work in 20.04 LTS </br>
+
 [rpcs3-v0.0.36-17765-ddf684c4_linux64](https://github.com/RPCS3/rpcs3/releases) </br>
 [rpcs3-v0.0.36-17766-58714d8c_linux64](https://rpcs3.net/compatibility?b) </br>
 rpcs3-v0.0.36-17767-16036e04_linux64 </br>
