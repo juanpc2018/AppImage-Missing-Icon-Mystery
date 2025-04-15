@@ -77,7 +77,8 @@ qbittorrent-4.6.7 to 5.0.4 </br>
 
 #### PASS 20.04.4 LTS + NV126: </br>
 [audacity-linux-3.7.1-x64-22.04 to 3.7.3](https://github.com/audacity/audacity/releases/) </br> 
-3.7.1 has 20.04 version does Not work, only 22.04 version, newer 3.7.2 & 3.7.3-20.04 works ok. </br>
+3.7.1-20.04 version does Not work, </br>
+3.7.1-22.04 version works, & newer 3.7.2 & 3.7.3 -20.04 & -22.04 works ok. </br>
 
 qjackctl-1.0.4-5.1.x86_64 </br>
 qtractor-1.5.3-10.1.x86_64 </br>
