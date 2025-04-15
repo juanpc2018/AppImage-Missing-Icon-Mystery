@@ -84,8 +84,8 @@ qbittorrent-4.6.7 to 5.0.4 </br>
 
 #### PASS 20.04.4 LTS + NV126: </br>
 [audacity-linux-3.7.1-x64-22.04 to 3.7.3](https://github.com/audacity/audacity/releases/) </br> 
-3.7.1-20.04 icon FAIL, </br>
-3.7.1-22.04 icon Works, </br>
+3.7.1-20.04 icon FAIL, app works. </br>
+3.7.1-22.04 icon Works, app fail. </br>
 3.7.2 & 3.7.3 -20.04 & -22.04 Work ok. </br>
 
 rpcs3-v0.0.36-17765-ddf684c4_linux64 </br>
