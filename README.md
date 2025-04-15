@@ -17,7 +17,7 @@ the only way fixing this problem: </br>
 "becoming an AppImage that has icon on 22.04 using Nvidia driver"</br>
 &/or </br>
 "becoming an AppImage that has icon on 20.04 using Nouveau NV126 driver"</br>
-is using an older AppImageKit version </br>
+is using a Different AppImageKit version, sometimes older, sometimes newer. </br>
 a different package method like [Sharun](https://github.com/VHSgunzo/sharun) may Not work on NV126 </br>
 
 reading [wikipedia](https://en.wikipedia.org/wiki/AppImage) </br>
@@ -66,7 +66,7 @@ requires [additional steps](https://github.com/RazZziel/PortableLinuxGames/wiki/
 
 ### AppImage Icons tested: </br>
 #### FAIL 20.04.4 LTS + NV126: </br>
-audacity-linux-3.0.4 to 3.7.8 </br>
+[audacity-linux-3.0.4 to 3.7.0](https://github.com/audacity/audacity/releases/) </br>
 [mpv-v0.40.0-42-g36ea2354b-anylinux-x86_64](https://github.com/pkgforge-dev/mpv-AppImage/releases) </br>
 [mpv-v0.40.0-42-g36ea2354b-anylinux-x86_64.dwfs.AppBundle](https://github.com/pkgforge-dev/mpv-AppImage/releases) </br>
 [OpenSCAD-2021.01-x86_64](https://github.com/openscad/openscad) </br>
@@ -76,6 +76,9 @@ qbittorrent-4.6.7 to 5.0.4 </br>
 
 
 #### PASS 20.04.4 LTS + NV126: </br>
+[audacity-linux-3.7.1-x64-22.04 to 3.7.3](https://github.com/audacity/audacity/releases/) </br> 
+3.7.1 has 20.04 version does Not work, only 22.04 version and newer. </br>
+
 qjackctl-1.0.4-5.1.x86_64 </br>
 qtractor-1.5.3-10.1.x86_64 </br>
 rpcs3-v0.0.36-17765-ddf684c4_linux64 </br>
@@ -96,3 +99,4 @@ Links: </br>
 https://github.com/mpv-player/mpv </br>
 TBA... </br>
 
+![image](https://github.com/user-attachments/assets/1a7367db-17ec-4647-9305-446cd0f88d22)
