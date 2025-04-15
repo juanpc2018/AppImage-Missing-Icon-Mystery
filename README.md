@@ -66,7 +66,7 @@ requires [additional steps](https://github.com/RazZziel/PortableLinuxGames/wiki/
 ### Untested: </br>
 [AMDgpu](https://en.wikipedia.org/wiki/AMDgpu_(Linux_kernel_module)) </br>
 
-### AppImage Icons tested: </br>
+## AppImage Icons tested: </br>
 #### FAIL 20.04.4 LTS + NV126: </br>
 [audacity-linux-3.0.4 to 3.7.0](https://github.com/audacity/audacity/releases/) </br>
 [mpv-v0.40.0-42-g36ea2354b-anylinux-x86_64](https://github.com/pkgforge-dev/mpv-AppImage/releases) </br>
@@ -91,7 +91,7 @@ unetbootin-linux-702.bin </br>
 3.7.2 & 3.7.3 -20.04 & -22.04 Work ok. </br>
 
 [qbittorrent-5.0.3-lt20-x86-64](https://www.appimagehub.com/p/2259406) unofficial appimage icon works, but App does Not, only 4.6.7 work in 20.04 LTS </br>
-rpcs3-v0.0.36-17765-ddf684c4_linux64 </br>
+[rpcs3-v0.0.36-17765-ddf684c4_linux64](https://github.com/RPCS3/rpcs3/releases) </br>
 scribus-1.6.3-linux-x86_64 </br>
 scribus-1.7.0-linux-x86_64 </br>
 [mpv-x86-64.AppImage](https://www.appimagehub.com/p/2271789) </br>
