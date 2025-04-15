@@ -3,7 +3,7 @@
 have Noticed something strange... </br>
 downloading many [AppImages](https://www.appimagehub.com/browse) </br>
 
-0% AppImage has Icon on 20.04.6 LTS "Dolphin / Nautilus Large Icon View" </br>
+0% AppImage has Icon on 20.04.6 LTS "File Manager Large Icon View Nautilus" </br>
 50% AppImages show icon in 22.04 LTS, 50% don't.</br>
 100% show icons in 24.04 LTS </br>
 
