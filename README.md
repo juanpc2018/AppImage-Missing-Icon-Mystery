@@ -10,7 +10,7 @@ downloading many [AppImages](https://www.appimagehub.com/browse) </br>
 using different Nvidia Propietary drivers 470 510 525 535 </br>
 older drivers are "incomplete". </br>
 BUT...</br>
-Nouveau NV137 driver: all AppImage icons show in 20.04.4 LTS </br>
+Nouveau NV137 driver: all AppImage icons show on 20.04.4 LTS </br>
 Nouveau NV126 driver: 25% AppImage icons Do Not show on 20.04.4 LTS </br>
 
 the only way fixing this problem: </br>
@@ -57,3 +57,6 @@ latest Windows8.1x64 driver works better, but... sometimes crash & reboots the s
 20.04 also has i386 installed, have to test again without i386 </br>
 but seems 32-Bit AppImages only run in 32-Bit OS, </br>
 requires [additional steps](https://github.com/RazZziel/PortableLinuxGames/wiki/Setup-a-64bit-system-to-run-32bit-appimages) to open on 64-Bit OS. </br>
+
+### Untested: </br>
+AMD gpu </br>
