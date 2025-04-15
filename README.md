@@ -114,8 +114,8 @@ rpcs3-v0.0.36-17771-d0861088_linux64 </br>
 rpcs3-v0.0.36-17772-15758171_linux64 </br>
 [rpcs3-v0.0.36-17773-db855951_linux64](https://github.com/RPCS3/rpcs3-binaries-linux/releases?q=build-db85595124d486792b6efaef1f0ef46384514a99&expanded=true) </br>
 
-scribus-1.6.3-linux-x86_64 </br>
-scribus-1.7.0-linux-x86_64 </br>
+[scribus-1.6.3-linux-x86_64](https://sourceforge.net/projects/scribus/files/scribus/1.6.3/) </br>
+[scribus-1.7.0-linux-x86_64](https://sourceforge.net/projects/scribus/files/scribus-devel/1.7.0/) </br>
 [mpv-x86-64.AppImage](https://www.appimagehub.com/p/2271789) </br>
 balenaEtcher-1.18.12-x64  </br>
 Inkscape-e7c3feb-x86_64_0QCD8vJ </br>
