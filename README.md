@@ -75,7 +75,7 @@ requires [additional steps](https://github.com/RazZziel/PortableLinuxGames/wiki/
 unetbootin-linux64-702.bin </br>
 unetbootin-linux-702.bin </br>
 [qbittorrent-4.6.7 to 5.0.4](https://github.com/qbittorrent/qBittorrent) </br>
-[rpcs3-v0.0.36-17785-e80809f6_linux64](https://github.com/RPCS3/rpcs3/releases) </br>
+[rpcs3-v0.0.36-17785-e80809f6_linux64](https://github.com/RPCS3/rpcs3-binaries-linux/releases?q=build-e80809f62993da0a09cb391576baf3da66e53f66&expanded=true) </br>
 
 [qjackctl-1.0.4-5.1.x86_64](https://www.appimagehub.com/p/1126620) </br>
  displayed an icon, because it was stored in cache from previous test using NV137 driver, </br>
