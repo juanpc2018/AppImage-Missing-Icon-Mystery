@@ -118,7 +118,7 @@ rpcs3-v0.0.36-17772-15758171_linux64 </br>
 [scribus-1.7.0-linux-x86_64](https://sourceforge.net/projects/scribus/files/scribus-devel/1.7.0/) </br>
 [mpv-x86-64.AppImage](https://www.appimagehub.com/p/2271789) </br>
 [balenaEtcher-1.18.12-x64](https://github.com/balena-io/etcher/issues/4265) .13 does Not work in 20.04.4 LTS </br>
-all balenaEtcher have icons up to v2.1.0 </br>
+but all balenaEtcher have icons up to v2.1.0 </br>
 
 [Inkscape-e7c3feb-x86_64_0QCD8vJ](https://media.inkscape.org/dl/resources/file/Inkscape-e7c3feb-x86_64_0QCD8vJ.AppImage) </br>
 kmidimon-1.4.1-x86_64 </br>
@@ -137,4 +137,5 @@ TBA... </br>
 ![image](https://github.com/user-attachments/assets/1a7367db-17ec-4647-9305-446cd0f88d22) </br>
 ![image](https://github.com/user-attachments/assets/4320c410-5fd9-4fd6-a797-e1ca2b360f04) </br>
 ![image](https://github.com/user-attachments/assets/903d4f4e-7666-483f-8d7c-0287cae1677b) </br>
+![image](https://github.com/user-attachments/assets/9c57454e-73cf-4f97-8ac1-abe172220de7) </br>
 
