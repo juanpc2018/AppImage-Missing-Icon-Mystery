@@ -56,8 +56,8 @@ The oldest AppImageKit Prerelease-1 has a [.pdf](https://github.com/AppImage/App
 P400 requires a fast board & CPU, Nouveau driver NV137 lacks optimization, has poor video playback on YouTube, skips frames, etc... </br>
 latest Windows8.1x64 driver works better, but... sometimes crash & reboots the system. </br>
 seems [FireFox](https://www.mozilla.org/en-US/firefox/all/desktop-release/) minimum Requirements for YouTube are 8-core CPU + gpu with PCIe v3, maybe 4GB of VRaM also. </br>
-NVIDIA propietary driver splits video acceleration load using CPU SSE instructions. </br>
-but Nouveau driver does Not when GPU acceleration works. </br>
+NVIDIA propietary driver seem to split video & 3D acceleration load using CPU SSE instructions, </br>
+but Nouveau driver does Not, when GPU acceleration works. </br>
 
 20.04 also has i386 installed, have to test again without i386 </br>
 but seems 32-Bit AppImages only run in 32-Bit OS, </br>
