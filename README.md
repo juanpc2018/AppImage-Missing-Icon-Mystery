@@ -118,7 +118,7 @@ rpcs3-v0.0.36-17772-15758171_linux64 </br>
 [scribus-1.7.0-linux-x86_64](https://sourceforge.net/projects/scribus/files/scribus-devel/1.7.0/) </br>
 [mpv-x86-64.AppImage](https://www.appimagehub.com/p/2271789) </br>
 [balenaEtcher-1.18.12-x64](https://github.com/balena-io/etcher/issues/4265) .13 does Not work in 20.04.4 LTS </br>
-Inkscape-e7c3feb-x86_64_0QCD8vJ </br>
+[Inkscape-e7c3feb-x86_64_0QCD8vJ](https://media.inkscape.org/dl/resources/file/Inkscape-e7c3feb-x86_64_0QCD8vJ.AppImage) </br>
 kmidimon-1.4.1-x86_64 </br>
 [qtractor-1.5.4-11.1.x86_64](https://sourceforge.net/projects/qtractor/files/qtractor/1.5.4/)
 
