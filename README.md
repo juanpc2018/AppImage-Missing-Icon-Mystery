@@ -97,6 +97,7 @@ scribus-1.7.0-linux-x86_64 </br>
 balenaEtcher-1.18.12-x64  </br>
 Inkscape-e7c3feb-x86_64_0QCD8vJ </br>
 kmidimon-1.4.1-x86_64 </br>
+[qtractor-1.5.4-11.1.x86_64](https://sourceforge.net/projects/qtractor/files/qtractor/1.5.4/)
 
 system icon: </br>
 warpinator-android_1.4.6.apk </br>
