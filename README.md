@@ -117,6 +117,7 @@ rpcs3-v0.0.36-17772-15758171_linux64 </br>
 [scribus-1.6.3-linux-x86_64](https://sourceforge.net/projects/scribus/files/scribus/1.6.3/) </br>
 [scribus-1.7.0-linux-x86_64](https://sourceforge.net/projects/scribus/files/scribus-devel/1.7.0/) </br>
 [mpv-x86-64.AppImage](https://www.appimagehub.com/p/2271789) </br>
+
 [balenaEtcher-1.18.12-x64](https://github.com/balena-io/etcher/issues/4265) .13 does Not work in 20.04.4 LTS </br>
 but all balenaEtcher have icons up to v2.1.0 </br>
 
