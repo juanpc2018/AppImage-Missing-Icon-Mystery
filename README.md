@@ -60,3 +60,33 @@ requires [additional steps](https://github.com/RazZziel/PortableLinuxGames/wiki/
 
 ### Untested: </br>
 AMD gpu </br>
+
+### AppImage tested </br>
+#### FAIL 20.04.4 LTS + NV126: </br>
+https://github.com/openscad/openscad </br>
+audacity-linux-3.0.4 to 3.7.8 </br>
+mpv-v0.40.0-42-g36ea2354b-anylinux-x86_64 </br>
+mpv-v0.40.0-42-g36ea2354b-anylinux-x86_64.dwfs.AppBundle </br>
+OpenSCAD-2021.01-x86_64 </br>
+unetbootin-linux64-702.bin </br>
+unetbootin-linux-702.bin </br>
+qbittorrent-4.6.7 to 5.0.4 </br>
+
+
+#### PASS 20.04.4 LTS + NV126: </br>
+qjackctl-1.0.4-5.1.x86_64 </br>
+qtractor-1.5.3-10.1.x86_64 </br>
+rpcs3-v0.0.36-17765-ddf684c4_linux64 </br>
+scribus-1.6.3-linux-x86_64 </br>
+scribus-1.7.0-linux-x86_64 </br>
+warpinator-android_1.4.6.apk </br>
+mpv-x86-64.AppImage </br>
+balenaEtcher-1.18.12-x64  </br>
+Inkscape-e7c3feb-x86_64_0QCD8vJ </br>
+kmidimon-1.4.1-x86_64 </br>
+
+
+https://github.com/pkgforge-dev/mpv-AppImage </br>
+https://github.com/mpv-player/mpv </br>
+TBA... </br>
+
