@@ -46,7 +46,6 @@ Quadro P400 </br>
 
 ### NV126 gpus tested: </br>
 Quadro M2000 </br>
-all have icons in 20.04.4 LTS </br>
 
 ### FAIL: </br>
 Quadro 6000 (2010) Nouveau driver has "Pink Screen of Death" in 20.04.4 LTS </br>
