@@ -25,7 +25,7 @@ in 2004 AppImage started as Klik </br>
 in 2011 was renamed as PortableLinuxImage, created a web with [537 games](https://portablelinuxgames.org/) </br>
 in 2013 was renamed as AppImage </br>
 in 2016 version 2 renamed as AppImageKit </br>
-2025 latest version renamed as [AppImageTool](https://github.com/AppImage/appimagetool/releases/tag/continuous) </br>
+in 2025 renamed as [AppImageTool](https://github.com/AppImage/appimagetool/releases/tag/continuous) </br>
 
 version 1 was ISO 9660 CD-Rom image, </br>
 version 2 has [SquashFS](https://en.wikipedia.org/wiki/SquashFS) type FileSystem "Read Only FileType" </br>
