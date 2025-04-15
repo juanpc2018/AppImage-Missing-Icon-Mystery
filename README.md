@@ -61,7 +61,7 @@ requires [additional steps](https://github.com/RazZziel/PortableLinuxGames/wiki/
 ### Untested: </br>
 AMD gpu </br>
 
-### AppImage tested </br>
+### AppImage Icons tested: </br>
 #### FAIL 20.04.4 LTS + NV126: </br>
 audacity-linux-3.0.4 to 3.7.8 </br>
 mpv-v0.40.0-42-g36ea2354b-anylinux-x86_64 </br>
