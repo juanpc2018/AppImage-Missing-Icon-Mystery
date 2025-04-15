@@ -21,8 +21,8 @@ is using an older AppImageKit version </br>
 a different package method like [Sharun](https://github.com/VHSgunzo/sharun) may Not work on NV126 </br>
 
 reading [wikipedia](https://en.wikipedia.org/wiki/AppImage) </br>
-AppImage started as Klik in 2004 </br>
-was renamed as PortableLinuxImage in 2011, created a web with [537 games](https://portablelinuxgames.org/) </br>
+in 2004 AppImage started as Klik </br>
+in 2011 was renamed as PortableLinuxImage, created a web with [537 games](https://portablelinuxgames.org/) </br>
 in 2013 was renamed as AppImage </br>
 in 2016 version 2 renamed as AppImageKit </br>
 2025 latest version renamed as [AppImageTool](https://github.com/AppImage/appimagetool/releases/tag/continuous) </br>
