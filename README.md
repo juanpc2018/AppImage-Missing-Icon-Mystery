@@ -10,7 +10,7 @@ downloading many [AppImages](https://www.appimagehub.com/browse) </br>
 using different Nvidia Propietary drivers 470 510 525 535 </br>
 older drivers are "incomplete". </br>
 BUT...</br>
-[Nouveau NV137](https://nouveau.freedesktop.org/CodeNames.html#nv110familymaxwell) driver: all AppImage icons have icons on [20.04.4 LTS](https://archive.org/details/pearOS_Monterey_64bit-12-beta-2021.07.01) </br>
+[Nouveau NV137](https://nouveau.freedesktop.org/CodeNames.html#nv110familymaxwell) driver: all AppImage have icons on [20.04.4 LTS](https://archive.org/details/pearOS_Monterey_64bit-12-beta-2021.07.01) </br>
 Nouveau NV126 driver: 25% AppImage icons Do Not show on 20.04.4 LTS </br>
 
 the only way fixing this problem: </br>
