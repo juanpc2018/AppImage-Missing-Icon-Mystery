@@ -67,8 +67,8 @@ requires [additional steps](https://github.com/RazZziel/PortableLinuxGames/wiki/
 ### AppImage Icons tested: </br>
 #### FAIL 20.04.4 LTS + NV126: </br>
 audacity-linux-3.0.4 to 3.7.8 </br>
-mpv-v0.40.0-42-g36ea2354b-anylinux-x86_64 </br>
-mpv-v0.40.0-42-g36ea2354b-anylinux-x86_64.dwfs.AppBundle </br>
+[mpv-v0.40.0-42-g36ea2354b-anylinux-x86_64](https://github.com/pkgforge-dev/mpv-AppImage/releases) </br>
+[mpv-v0.40.0-42-g36ea2354b-anylinux-x86_64.dwfs.AppBundle](https://github.com/pkgforge-dev/mpv-AppImage/releases) </br>
 [OpenSCAD-2021.01-x86_64](https://github.com/openscad/openscad) </br>
 unetbootin-linux64-702.bin </br>
 unetbootin-linux-702.bin </br>
@@ -81,7 +81,7 @@ qtractor-1.5.3-10.1.x86_64 </br>
 rpcs3-v0.0.36-17765-ddf684c4_linux64 </br>
 scribus-1.6.3-linux-x86_64 </br>
 scribus-1.7.0-linux-x86_64 </br>
-mpv-x86-64.AppImage </br>
+[mpv-x86-64.AppImage](https://www.appimagehub.com/p/2271789) </br>
 balenaEtcher-1.18.12-x64  </br>
 Inkscape-e7c3feb-x86_64_0QCD8vJ </br>
 kmidimon-1.4.1-x86_64 </br>
@@ -93,7 +93,6 @@ xyz.pearos.pairdrop.apk </br>
 .bmp .pdf .jpg .webp </br>
 
 Links: </br>
-https://github.com/pkgforge-dev/mpv-AppImage </br>
 https://github.com/mpv-player/mpv </br>
 TBA... </br>
 
