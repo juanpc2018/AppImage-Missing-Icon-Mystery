@@ -77,6 +77,7 @@ unetbootin-linux-702.bin </br>
 [qbittorrent-4.6.7 to 5.0.4](https://github.com/qbittorrent/qBittorrent) </br>
 [rpcs3-v0.0.36-17785-e80809f6_linux64](https://github.com/RPCS3/rpcs3-binaries-linux/releases?q=build-e80809f62993da0a09cb391576baf3da66e53f66&expanded=true) </br>
 
+
 [qjackctl-1.0.4-5.1.x86_64](https://www.appimagehub.com/p/1126620) </br>
  displayed an icon, because it was stored in cache from previous test using NV137 driver, </br>
  icon does Not load anymore on NV126, after copy other .appimage to folder. </br>
@@ -95,6 +96,14 @@ unetbootin-linux-702.bin </br>
 
 [qbittorrent-5.0.3-lt20-x86-64](https://www.appimagehub.com/p/2259406) unofficial appimage icon works, but App does Not, only 4.6.7 work in 20.04 LTS </br>
 [rpcs3-v0.0.36-17765-ddf684c4_linux64](https://github.com/RPCS3/rpcs3/releases) </br>
+rpcs3-v0.0.36-17766-58714d8c_linux64 </br>
+rpcs3-v0.0.36-17767-16036e04_linux64 </br>
+rpcs3-v0.0.36-17768-e4d84e2c_linux64 </br>
+rpcs3-v0.0.36-17769-87d8bebd_linux64 </br>
+rpcs3-v0.0.36-17771-d0861088_linux64 </br>
+rpcs3-v0.0.36-17772-15758171_linux64 </br>
+rpcs3-v0.0.36-17773-db855951_linux64 </br>
+
 scribus-1.6.3-linux-x86_64 </br>
 scribus-1.7.0-linux-x86_64 </br>
 [mpv-x86-64.AppImage](https://www.appimagehub.com/p/2271789) </br>
