@@ -74,11 +74,11 @@ unetbootin-linux64-702.bin </br>
 unetbootin-linux-702.bin </br>
 qbittorrent-4.6.7 to 5.0.4 </br>
 
-qjackctl-1.0.4-5.1.x86_64 </br>
+[qjackctl-1.0.4-5.1.x86_64](https://www.appimagehub.com/p/1126620) </br>
  displayed an icon, because it was stored in cache from previous test using NV137 driver, </br>
  after a few Refresh, icon does Not load anymore on NV126, after copy other .appimage to folder. </br>
 
-qtractor-1.5.3-10.1.x86_64 </br>
+[qtractor-1.5.3-10.1.x86_64](https://www.appimagehub.com/p/1126633) </br>
  displayed an icon, because it was stored in cache from previous test using NV137 driver, </br>
  after a few Refresh, icon does Not load anymore on NV126, after copy other .appimage to folder. </br>
 
