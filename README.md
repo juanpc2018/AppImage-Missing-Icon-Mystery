@@ -42,7 +42,7 @@ PreRelease-5 also has a [PDF](https://github.com/AppImage/AppImageKit/releases/d
 
 ### NV137 gpus tested:  </br>
 [GTX 1050 Ti (2016)](https://www.techpowerup.com/gpu-specs/geforce-gtx-1050-ti.c2885) </br>
-[Quadro P400 /2017(](https://www.techpowerup.com/gpu-specs/quadro-p400.c2934) </br>
+[Quadro P400 (2017)](https://www.techpowerup.com/gpu-specs/quadro-p400.c2934) </br>
 
 ### NV126 gpus tested: </br>
 [Quadro M2000 (2016)](https://www.techpowerup.com/gpu-specs/quadro-m2000.c2837) </br>
