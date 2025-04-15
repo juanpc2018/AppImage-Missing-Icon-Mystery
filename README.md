@@ -51,7 +51,7 @@ The oldest AppImageKit Prerelease-1 has a [.pdf](https://github.com/AppImage/App
 [Quadro M2000 (2016)](https://www.techpowerup.com/gpu-specs/quadro-m2000.c2837) </br>
 
 ### FAIL: </br>
-[Quadro 6000 (2010)](https://www.techpowerup.com/gpu-specs/quadro-6000.c896) Nouveau driver [NVC0GL](https://nouveau.freedesktop.org/CodeNames.html#NVC0) has "Pink Screen of Death" on 20.04.4 LTS </br>
+[Quadro 6000 (2010)](https://www.techpowerup.com/gpu-specs/quadro-6000.c896) Nouveau driver [NVC0GL](https://nouveau.freedesktop.org/CodeNames.html#NVC0) has "Pink Screen of Death" on [20.04.4 LTS](https://archive.org/details/pearOS_Monterey_64bit-12-beta-2021.07.01) </br>
 
 P400 requires a fast board & CPU, Nouveau driver NV137 lacks optimization, has poor video playback on YouTube, skips frames, etc... </br>
 latest Windows8.1x64 driver works better, but... sometimes crash & reboots the system. </br>
