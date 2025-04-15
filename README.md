@@ -74,7 +74,7 @@ requires [additional steps](https://github.com/RazZziel/PortableLinuxGames/wiki/
 [OpenSCAD-2021.01-x86_64](https://github.com/openscad/openscad) </br>
 unetbootin-linux64-702.bin </br>
 unetbootin-linux-702.bin </br>
-qbittorrent-4.6.7 to 5.0.4 </br>
+[qbittorrent-4.6.7 to 5.0.4](https://github.com/qbittorrent/qBittorrent) </br>
 
 [qjackctl-1.0.4-5.1.x86_64](https://www.appimagehub.com/p/1126620) </br>
  displayed an icon, because it was stored in cache from previous test using NV137 driver, </br>
@@ -90,6 +90,7 @@ qbittorrent-4.6.7 to 5.0.4 </br>
 3.7.1-22.04 icon Works, app fail. </br>
 3.7.2 & 3.7.3 -20.04 & -22.04 Work ok. </br>
 
+[qbittorrent-5.0.3-lt20-x86-64.AppImage	v5.03	unofficial appimage](https://www.appimagehub.com/p/2259406) icon works, but App does Not in 20.04 only 4.6.7 </br>
 rpcs3-v0.0.36-17765-ddf684c4_linux64 </br>
 scribus-1.6.3-linux-x86_64 </br>
 scribus-1.7.0-linux-x86_64 </br>
