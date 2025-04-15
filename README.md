@@ -10,7 +10,7 @@ downloading many [AppImages](https://www.appimagehub.com/browse) </br>
 using different Nvidia Propietary drivers 470 510 525 535 </br>
 older drivers are "incomplete". </br>
 BUT...</br>
-Nouveau NV137 driver: all AppImage icons show on 20.04.4 LTS </br>
+[Nouveau NV137](https://nouveau.freedesktop.org/CodeNames.html#nv110familymaxwell) driver: all AppImage icons show on 20.04.4 LTS </br>
 Nouveau NV126 driver: 25% AppImage icons Do Not show on 20.04.4 LTS </br>
 
 the only way fixing this problem: </br>
@@ -35,9 +35,12 @@ Official links: </br>
 https://appimage.org/ </br>
 https://github.com/AppImage/AppImageKit </br>
 https://github.com/AppImage/AppImageKit/blob/master/README.md </br>
+https://en.wikipedia.org/wiki/Nouveau_(software) </br>
+https://nouveau.freedesktop.org/FeatureMatrix.html </br>
+https://nouveau.freedesktop.org/VideoAcceleration.html </br>
+https://nouveau.freedesktop.org/ </br>
 
-The oldest AppImageKit Prerelease-1 has a [.pdf](https://github.com/AppImage/AppImageKit/releases/download/1/AppImage.Mythbusting.2020.pdf)
-PreRelease-5 also has a [PDF](https://github.com/AppImage/AppImageKit/releases/download/5/AppImage.pdf)
+The oldest AppImageKit Prerelease-1 has a [.pdf](https://github.com/AppImage/AppImageKit/releases/download/1/AppImage.Mythbusting.2020.pdf) PreRelease-5 also has a [PDF](https://github.com/AppImage/AppImageKit/releases/download/5/AppImage.pdf)
 
 
 ### NV137 gpus tested:  </br>
@@ -59,7 +62,7 @@ but seems 32-Bit AppImages only run in 32-Bit OS, </br>
 requires [additional steps](https://github.com/RazZziel/PortableLinuxGames/wiki/Setup-a-64bit-system-to-run-32bit-appimages) to open on 64-Bit OS. </br>
 
 ### Untested: </br>
-AMD gpu </br>
+[AMDgpu](https://en.wikipedia.org/wiki/AMDgpu_(Linux_kernel_module)) </br>
 
 ### AppImage Icons tested: </br>
 #### FAIL 20.04.4 LTS + NV126: </br>
