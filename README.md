@@ -63,11 +63,10 @@ AMD gpu </br>
 
 ### AppImage tested </br>
 #### FAIL 20.04.4 LTS + NV126: </br>
-https://github.com/openscad/openscad </br>
 audacity-linux-3.0.4 to 3.7.8 </br>
 mpv-v0.40.0-42-g36ea2354b-anylinux-x86_64 </br>
 mpv-v0.40.0-42-g36ea2354b-anylinux-x86_64.dwfs.AppBundle </br>
-OpenSCAD-2021.01-x86_64 </br>
+[OpenSCAD-2021.01-x86_64](https://github.com/openscad/openscad) </br>
 unetbootin-linux64-702.bin </br>
 unetbootin-linux-702.bin </br>
 qbittorrent-4.6.7 to 5.0.4 </br>
