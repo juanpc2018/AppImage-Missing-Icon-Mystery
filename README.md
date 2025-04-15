@@ -76,7 +76,16 @@ unetbootin-linux64-702.bin </br>
 unetbootin-linux-702.bin </br>
 [qbittorrent-4.6.7 to 5.0.4](https://github.com/qbittorrent/qBittorrent) </br>
 [rpcs3-v0.0.36-17785-e80809f6_linux64](https://github.com/RPCS3/rpcs3-binaries-linux/releases?q=build-e80809f62993da0a09cb391576baf3da66e53f66&expanded=true) </br>
-
+[rpcs3-v0.0.36-17784-5ac4db75_linux64](https://rpcs3.net/compatibility?b) </br>
+rpcs3-v0.0.36-17783-746b4385_linux64 </br>
+rpcs3-v0.0.36-17782-0964c035_linux64 </br>
+rpcs3-v0.0.36-17781-7500d165_linux64 </br>
+rpcs3-v0.0.36-17779-fcb6bc70_linux64 </br>
+rpcs3-v0.0.36-17778-9c5b3a23_linux64 </br>
+rpcs3-v0.0.36-17777-2d7ffaf0_linux64 </br>
+rpcs3-v0.0.36-17776-9b7d5cd1_linux64 </br>
+rpcs3-v0.0.36-17775-bcb5041d_linux64 </br>
+[rpcs3-v0.0.36-17774-23570727_linux64](https://github.com/RPCS3/rpcs3-binaries-linux/releases?q=build-235707278fb0126b32cb8892c98a9534c4e6dd1b&expanded=true) </br>
 
 [qjackctl-1.0.4-5.1.x86_64](https://www.appimagehub.com/p/1126620) </br>
  displayed an icon, because it was stored in cache from previous test using NV137 driver, </br>
