@@ -13,8 +13,11 @@ BUT...</br>
 Nouveau NV137 driver: all AppImage icons show in 20.04.4 LTS </br>
 Nouveau NV126 driver: 25% AppImage icons Do Not show on 20.04.4 LTS </br>
 
-the only way fixing this problem "becoming an AppImage that has icon on 22.04 using Nvidia driver"</br>
-is using a different / older AppImageKit version </br>
+the only way fixing this problem: </br>
+"becoming an AppImage that has icon on 22.04 using Nvidia driver"</br>
+or </br>
+"becoming an AppImage that has icon on 20.04 using Nouveau NV126 driver"</br>
+is using an older AppImageKit version </br>
 a different package method like [Sharun](https://github.com/VHSgunzo/sharun) may Not work on NV126 </br>
 
 reading [wikipedia](https://en.wikipedia.org/wiki/AppImage) </br>
