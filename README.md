@@ -152,7 +152,7 @@ Nothing works. LOL  </br>
 
 with 2x exeptions: </br>
 OpenSCAD Now works </br>
-and Scribus always works. </br>
+and Scribus, InkScape, MidiMon always works. </br>
 all other AppImage stop showing icons. </br>
 
 OpenSCAD is the suspect creating the conflict. </br>
