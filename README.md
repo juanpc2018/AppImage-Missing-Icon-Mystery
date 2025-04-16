@@ -177,3 +177,84 @@ does Not dinamically / individually scan each AppImage version, only the 1st App
 ![Screenshot_20250416_171326](https://github.com/user-attachments/assets/ce314271-f246-47bb-9c71-9e6df8d50402) </br>
 ![Screenshot_20250416_171343](https://github.com/user-attachments/assets/3ad05be6-9e66-4904-a0b7-98f570e5f6ca) </br>
 
+have installed latest Files / Nautilus devel Nightly
+because the Normal Files was deleted from FlatPak
+
+```
+$ flatpak install org.gnome.NautilusDevel.flatpakref
+The remote 'gnome-nightly', referred to by 'org.gnome.NautilusDevel' at location https://nightly.gnome.org/repo/ contains additional applications.
+Should the remote be kept for future installations? [Y/n]: 
+Required runtime for org.gnome.NautilusDevel/x86_64/master (runtime/org.gnome.Platform/x86_64/master) found in remote gnome-nightly
+Do you want to install it? [Y/n]: 
+
+org.gnome.NautilusDevel permissions:
+    ipc     wayland     x11     dri     file access [1]     dbus access [2]     tags [3]
+
+    [1] /tmp, host, xdg-run/dconf, xdg-run/gvfsd, ~/.config/dconf:ro
+    [2] ca.desrt.dconf, org.gnome.Console, org.gnome.DiskUtility, org.gnome.Mutter.ServiceChannel, org.gnome.NautilusPreviewer, org.gnome.NautilusPreviewerDevel,
+        org.gnome.OnlineAccounts, org.gnome.Settings, org.gtk.MountOperationHandler, org.gtk.vfs.*
+    [3] devel, development, nightly
+
+
+        ID                                              Branch                 Op             Remote                   Download
+ 1. [✗] org.freedesktop.Platform.GL.default             24.08                  u              flathub                  < 155,7 MB
+ 2. [✗] org.freedesktop.Platform.GL.default             24.08extra             u              flathub                  < 155,7 MB
+ 3. [✓] org.freedesktop.Platform.openh264               2.5.1beta              i              gnome-nightly              910,1 kB / 971,2 kB
+ 4. [✓] org.gnome.NautilusDevel.Locale                  master                 i              gnome-nightly               58,3 kB / 4,7 MB
+ 5. [✓] org.gnome.Platform.Locale                       master                 i              gnome-nightly              144,7 kB / 387,2 MB
+ 6. [✓] org.gnome.Platform                              master                 i              gnome-nightly              258,8 MB / 398,0 MB
+ 7. [✓] org.gnome.NautilusDevel                         master                 i              gnome-nightly                8,0 MB / 11,3 MB
+
+Warning: Server returned status 404: Not Found
+Warning: Server returned status 404: Not Found
+Changes complete.
+```
+
+```
+$ flatpak list
+Name                                           Application ID                                Version      Branch        Origin                      Installation
+default                                        org.freedesktop.Platform.GL.Debug.default                  24.08         flathub                     system
+default                                        org.freedesktop.Platform.GL.Debug.default                  24.08extra    flathub                     system
+Freedesktop SDK                                org.freedesktop.Platform.GL.default           24.3.4       24.08         flathub                     system
+Freedesktop SDK                                org.freedesktop.Platform.GL.default           24.3.4       24.08extra    flathub                     system
+openh264                                       org.freedesktop.Platform.openh264             2.4.1        2.4.1         flathub                     system
+Cisco Systems, Inc.                            org.freedesktop.Platform.openh264             2.5.1        2.5.1beta     gnome-nightly               system
+Files                                          org.gnome.NautilusDevel                       49~alpha     master        gnome-nightly               system
+GNOME Application Platform version 47          org.gnome.Platform                                         47            flathub                     system
+GNOME Application Platform version Nightly     org.gnome.Platform                                         master        gnome-nightly               system
+alsa-scarlett-gui                              vu.b4.alsa-scarlett-gui                                    master        alsa-scarlett-gui-origin    system
+```
+
+```
+~/Downloads$ flatpak run org.gnome.NautilusDevel
+
+(org.gnome.NautilusDevel:2): GVFS-WARNING **: 18:39:17.917: The peer-to-peer connection failed: Error when getting information for file “/run/user/1000/gvfsd”: No such file or directory. Falling back to the session bus. Your application is probably missing --filesystem=xdg-run/gvfsd privileges.
+
+(org.gnome.NautilusDevel:2): GVFS-WARNING **: 18:39:17.918: The peer-to-peer connection failed: Error when getting information for file “/run/user/1000/gvfsd”: No such file or directory. Falling back to the session bus. Your application is probably missing --filesystem=xdg-run/gvfsd privileges.
+** Message: 18:39:17.996: Connecting to org.freedesktop.Tracker3.Miner.Files
+
+(org.gnome.NautilusDevel:2): Gtk-WARNING **: 18:39:18.320: Theme directory 16x16/panel of theme pearOS-dark has no size field
+(org.gnome.NautilusDevel:2): Gtk-WARNING **: 18:39:18.326: Theme directory 16x16@2x/places of theme pearOS-dark has no size field
+(org.gnome.NautilusDevel:2): Gtk-WARNING **: 18:39:18.328: Theme directory 24x24/apps of theme pearOS-dark has no size field
+(org.gnome.NautilusDevel:2): Gtk-WARNING **: 18:39:18.331: Theme directory 24x24@2x/panel of theme pearOS-dark has no size field
+(org.gnome.NautilusDevel:2): Gtk-WARNING **: 18:39:18.332: Theme directory 24x24@2x/panel of theme pearOS-dark has no size field
+(org.gnome.NautilusDevel:2): Gtk-WARNING **: 18:39:18.682: Theme directory 16x16/panel of theme pearOS-dark has no size field
+(org.gnome.NautilusDevel:2): Gtk-WARNING **: 18:39:18.686: Theme directory 16x16@2x/places of theme pearOS-dark has no size field
+(org.gnome.NautilusDevel:2): Gtk-WARNING **: 18:39:18.688: Theme directory 24x24/apps of theme pearOS-dark has no size field
+(org.gnome.NautilusDevel:2): Gtk-WARNING **: 18:39:18.691: Theme directory 24x24@2x/panel of theme pearOS-dark has no size field
+(org.gnome.NautilusDevel:2): Gtk-WARNING **: 18:39:18.691: Theme directory 24x24@2x/panel of theme pearOS-dark has no size field
+** (org.gnome.NautilusDevel:2): WARNING **: 18:39:18.827: Unable to get contents of the bookmarks file: Error opening file /home/jpc/.var/app/org.gnome.NautilusDevel/config/gtk-3.0/bookmarks: No such file or directory
+** (org.gnome.NautilusDevel:2): WARNING **: 18:39:18.850: Unable to create connection for session-wide Tracker indexer: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.portal.Tracker was not provided by any .service files
+** Message: 18:39:18.850: Starting org.gnome.NautilusDevel.Tracker3.Miner.Files
+(org.gnome.NautilusDevel:2): GVFS-WARNING **: 18:39:19.914: The peer-to-peer connection failed: Error when getting information for file “/run/user/1000/gvfsd”: No such file or directory. Falling back to the session bus. Your application is probably missing --filesystem=xdg-run/gvfsd privileges.
+** (org.gnome.NautilusDevel:2): CRITICAL **: 18:39:19.914: Could not start local Tracker indexer at org.gnome.NautilusDevel.Tracker3.Miner.Files: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.portal.Tracker was not provided by any .service files
+(org.gnome.NautilusDevel:2): GVFS-WARNING **: 18:39:19.966: The peer-to-peer connection failed: Error when getting information for file “/run/user/1000/gvfsd”: No such file or directory. Falling back to the session bus. Your application is probably missing --filesystem=xdg-run/gvfsd privileges.
+(org.gnome.NautilusDevel:2): GVFS-WARNING **: 18:39:19.999: The peer-to-peer connection failed: Error when getting information for file “/run/user/1000/gvfsd”: No such file or directory. Falling back to the session bus. Your application is probably missing --filesystem=xdg-run/gvfsd privileges.
+(org.gnome.NautilusDevel:2): GVFS-WARNING **: 18:39:20.000: The peer-to-peer connection failed: Error when getting information for file “/run/user/1000/gvfsd”: No such file or directory. Falling back to the session bus. Your application is probably missing --filesystem=xdg-run/gvfsd privileges.
+(org.gnome.NautilusDevel:2): GVFS-WARNING **: 18:39:20.284: The peer-to-peer connection failed: Error when getting information for file “/run/user/1000/gvfsd”: No such file or directory. Falling back to the session bus. Your application is probably missing --filesystem=xdg-run/gvfsd privileges.
+(org.gnome.NautilusDevel:2): GVFS-WARNING **: 18:39:20.322: The peer-to-peer connection failed: Error when getting information for file “/run/user/1000/gvfsd”: No such file or directory. Falling back to the session bus. Your application is probably missing --filesystem=xdg-run/gvfsd privileges.
+(org.gnome.NautilusDevel:2): GVFS-WARNING **: 18:39:20.324: The peer-to-peer connection failed: Error when getting information for file “/run/user/1000/gvfsd”: No such file or directory. Falling back to the session bus. Your application is probably missing --filesystem=xdg-run/gvfsd privileges.
+(org.gnome.NautilusDevel:2): Gtk-WARNING **: 18:39:23.383: Failed to load icon /run/host/share/icons/breeze/mimetypes/64/application-pgp-encrypted.svg: Error opening file /run/host/share/icons/breeze/mimetypes/64/application-pgp-encrypted.svg: Too many levels of symbolic links
+```
+![image](https://github.com/user-attachments/assets/32bcd5e4-9838-485b-8369-211e96cf4deb) </br>
+
