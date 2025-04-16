@@ -162,12 +162,12 @@ have to reboot again, do more tests to confirm. </br>
 but its very strange yesterday OpenSCAD icon was Missing, Now is working, but Nothing else works. </br>
 maybe is something else, i have to do more tests, but i dont remember installing Nothing. </br>
 
-My guess: seems OS / Nautilus search / index .appimages on the folder </br>
+My guess: seems OS / Nautilus search / index .appimages on the folder everytime there is a change </br>
 the 1st appimage it detects, scans for version1 or version2 of AppImageKit,  </br>
 loads / scan the icons, </br>
 IF following AppImages have a different AppImageKit version, </br>
-does Not load / scan / Not detects icons. </br>
-does Not dinamically / individually scan AppImage versions, only the 1st one file index detects. </br>
+does Not load / scan / Nor detects icons. </br>
+does Not dinamically / individually scan each AppImage version, only the 1st AppImage it detects. </br>
 
 ![Screenshot_20250416_171216](https://github.com/user-attachments/assets/845561b3-5389-4c1b-9a2d-c06238d6bda8) </br>
 ![Screenshot_20250416_171238](https://github.com/user-attachments/assets/d8ce33b0-e887-49b5-83ef-ae58cb395257) </br>
