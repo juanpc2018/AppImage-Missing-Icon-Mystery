@@ -95,6 +95,8 @@ rpcs3-v0.0.36-17775-bcb5041d_linux64 </br>
  displayed an icon, because it was stored in cache from previous test using NV137 driver, </br>
  icon does Not load anymore on NV126, after copy other .appimage to folder. </br>
 
+[GIMP 3.0.2](https://edgeuno-bog2.mm.fcix.net/gimp/gimp/v3.0/linux/GIMP-3.0.2-x86_64.AppImage.torrent)
+
 -----------
 
 #### PASS 20.04.4 LTS + NV126: </br>
@@ -159,6 +161,13 @@ OpenSCAD is the suspect creating the conflict. </br>
 have to reboot again, do more tests to confirm. </br>
 but its very strange yesterday OpenSCAD icon was Missing, Now is working, but Nothing else. </br>
 maybe is something else, i have to do more tests, but i dont remember installing Nothing. </br>
+
+My guess: seems OS / Nautilus search / index .appimages on the folder </br>
+the 1st appimage it detects, scans for version1 or version2 of AppImageKit,  </br>
+loads / scan the icons, </br>
+IF following AppImages have a different AppImageKit version, </br>
+does Not load / scan / Not detects icons. </br>
+does Not dinamically / individually scan AppImage versions, only the 1st one file index detects. </br>
 
 ![Screenshot_20250416_171216](https://github.com/user-attachments/assets/845561b3-5389-4c1b-9a2d-c06238d6bda8) </br>
 ![Screenshot_20250416_171238](https://github.com/user-attachments/assets/d8ce33b0-e887-49b5-83ef-ae58cb395257) </br>
