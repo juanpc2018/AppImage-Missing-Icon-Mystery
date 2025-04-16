@@ -154,7 +154,7 @@ Nothing works. LOL  </br>
 
 with 2x exeptions: </br>
 OpenSCAD Now works </br>
-and Scribus, InkScape, MidiMon always works. </br>
+and InkScape, MidiMon always works. </br>
 all other AppImage stop showing icons. </br>
 
 OpenSCAD is the suspect creating the conflict. </br>
@@ -177,8 +177,13 @@ does Not dinamically / individually scan each AppImage version, only the 1st App
 ![Screenshot_20250416_171326](https://github.com/user-attachments/assets/ce314271-f246-47bb-9c71-9e6df8d50402) </br>
 ![Screenshot_20250416_171343](https://github.com/user-attachments/assets/3ad05be6-9e66-4904-a0b7-98f570e5f6ca) </br>
 
-have installed latest Files / Nautilus devel Nightly
-because the Normal Files was deleted from FlatPak
+
+Moved Folder to other place, and Now 0% icons work.  </br>
+makes me believe it could be a Files/Nautilus problem also.  </br>
+
+have installed latest [Files / Nautilus devel Nightly](https://welcome.gnome.org/app/Nautilus/) </br>
+because Normal Files / Nautilus was [deleted](https://flathub.org/apps/search?q=gnome+Nautilus) from Flathub </br>
+but No... same result. </br>
 
 ```
 $ flatpak install org.gnome.NautilusDevel.flatpakref
