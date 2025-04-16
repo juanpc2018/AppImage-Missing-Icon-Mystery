@@ -140,3 +140,31 @@ TBA... </br>
 ![image](https://github.com/user-attachments/assets/903d4f4e-7666-483f-8d7c-0287cae1677b) </br>
 ![image](https://github.com/user-attachments/assets/9c57454e-73cf-4f97-8ac1-abe172220de7) </br>
 
+
+----------------------------------
+
+# The Conflict
+
+turned-off my 20.04.4 LTS, went to sleep, woke-up, turned-on 20.04.4 LTS </br>
+Now.... </br>
+Magically.... </br>
+Nothing works. LOL  </br>
+
+with 2x exeptions: </br>
+OpenSCAD Now works </br>
+and Scribus always works. </br>
+all other AppImage stop showing icons. </br>
+
+OpenSCAD is the suspect creating the conflict. </br>
+have to reboot again, do more tests to confirm. </br>
+but its very strange yesterday OpenSCAD icon was Missing, Now is working, but Nothing else. </br>
+maybe is something else, i have to do more tests, but i dont remember installing Nothing. </br>
+
+![Screenshot_20250416_171216](https://github.com/user-attachments/assets/845561b3-5389-4c1b-9a2d-c06238d6bda8) </br>
+![Screenshot_20250416_171238](https://github.com/user-attachments/assets/d8ce33b0-e887-49b5-83ef-ae58cb395257) </br>
+![Screenshot_20250416_171250](https://github.com/user-attachments/assets/6f83d39d-c052-4d88-8778-53e291714ff2) </br>
+![Screenshot_20250416_171300](https://github.com/user-attachments/assets/50392df9-b5ec-4ce1-a4c3-38620e6ada20) </br>
+![Screenshot_20250416_171312](https://github.com/user-attachments/assets/5974ca7c-13e5-492f-96bc-18be824196b7) </br>
+![Screenshot_20250416_171326](https://github.com/user-attachments/assets/ce314271-f246-47bb-9c71-9e6df8d50402) </br>
+![Screenshot_20250416_171343](https://github.com/user-attachments/assets/3ad05be6-9e66-4904-a0b7-98f570e5f6ca) </br>
+
