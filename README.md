@@ -159,7 +159,7 @@ all other AppImage stop showing icons. </br>
 
 OpenSCAD is the suspect creating the conflict. </br>
 have to reboot again, do more tests to confirm. </br>
-but its very strange yesterday OpenSCAD icon was Missing, Now is working, but Nothing else. </br>
+but its very strange yesterday OpenSCAD icon was Missing, Now is working, but Nothing else works. </br>
 maybe is something else, i have to do more tests, but i dont remember installing Nothing. </br>
 
 My guess: seems OS / Nautilus search / index .appimages on the folder </br>
