@@ -7,9 +7,9 @@ downloading many [AppImages](https://www.appimagehub.com/browse) </br>
 50% AppImages show icon on 22.04 LTS, 50% don't.</br>
 100% has icons on 24.04 LTS </br>
 using different Nvidia Propietary drivers 470 510 525 535 </br>
-older drivers could be "incomplete". </br>
+older drivers maybe "incomplete". </br>
 BUT... </br>
-could also be a File Manager problem, different File manager versions. </br>
+could also be combined with a File Manager problem, different File manager versions. </br>
 
 The strange thing is that: </br>
 [Nouveau NV137](https://nouveau.freedesktop.org/CodeNames.html#nv110familymaxwell) driver: all AppImage have icons on [20.04.4 LTS](https://archive.org/details/pearOS_Monterey_64bit-12-beta-2021.07.01) </br>
