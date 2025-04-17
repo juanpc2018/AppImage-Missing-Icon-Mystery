@@ -210,6 +210,7 @@ Back to Thunar, and Now Thunar displays all icons detected by Dolphin. </br>
 
 Back to Files/Nautilus 3.36.3, and displaus all icons dectected by Dolphin, but has a weird "Loading..." </br>
 ![image](https://github.com/user-attachments/assets/33be50d5-0be5-4724-af43-a3fb0a6a637b) </br>
+![image](https://github.com/user-attachments/assets/c852db34-9dac-480c-bbc1-66973e72c408) </br>
 
 
 ```
@@ -294,7 +295,15 @@ alsa-scarlett-gui                              vu.b4.alsa-scarlett-gui          
 
 # Conclusion
 
-their plan seem to be converting everything to Go generic language easy for A.i.  </br>
+Dolphin detects properly all .appimages in 20.04.4 LTS + NV126 </br>
+BUT... Dolphin does Not do a complete -Recursive scan/search. </br>
+Only detects all .appimage icons when enters the folder, when folder is inside another folder only detects 3 random icons for folder preview. </br>
+
+Dolphin has another problems, its very dangerous when using NTFS-3G file system with Write-Cache On. </br>
+If you delete a folder or a file in NTFS, file and folder is deleted, BUT... like a Midi Note Stuck, like a latch </br>
+when i expand another folder, deletes all files inside that folder, and then returns to normal behavour. </br>
+
+the plan seem to be converting everything to Go generic language easy for A.i.  </br>
 and want A.i. to magically solve all problems.  </br>
 LOL </br>
 
