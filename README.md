@@ -265,7 +265,7 @@ alsa-scarlett-gui                              vu.b4.alsa-scarlett-gui          
 
 ----------------
 
-# Conlusion
+# Conclusion
 
 some key developers spend all their time & energy creating spyware </br>
 Not solving bugs. </br>
