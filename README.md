@@ -9,11 +9,15 @@ downloading many [AppImages](https://www.appimagehub.com/browse) </br>
 using different Nvidia Propietary drivers 470 510 525 535 </br>
 older drivers maybe "incomplete". </br>
 BUT... </br>
-could also be combined with a File Manager problem, different File manager versions. </br>
+could also be a File Manager problem, different File manager versions. </br>
 
 The strange thing is that: </br>
 [Nouveau NV137](https://nouveau.freedesktop.org/CodeNames.html#nv110familymaxwell) driver: all AppImage have icons on [20.04.4 LTS](https://archive.org/details/pearOS_Monterey_64bit-12-beta-2021.07.01) </br>
-[Nouveau NV126](https://nouveau.freedesktop.org/CodeNames.html#nv110familymaxwell) driver: 50% AppImage icons Do Not show on 20.04.4 LTS using the same Nautilus file manager. </br>
+[Nouveau NV126](https://nouveau.freedesktop.org/CodeNames.html#nv110familymaxwell) driver: 50% AppImage Do Not have Icons on [20.04.4 LTS](https://archive.org/details/pearOS_Monterey_64bit-12-beta-2021.07.01) with the same Nautilus file manager. </br>
+
+doing tests on the same 20.04.4 LTS, just swapping the GPU,  </br>
+is Not a proper test, because previous test with NV137 detects some appimage icons, and stores icon in cache, </br>
+become visible with NV126 drivers, but eventually after a few changes in the folder and reboot, icons become missing again. </br>
 
 from a developer POV: </br>
 a way of fixing this </br>
