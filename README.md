@@ -203,7 +203,7 @@ there is 1 icon different, previously Not visible. </br>
 There is a severe incompatibility between all different versions of AppImageKit  </br>
 system does Not know how to handle different versions of AppImageKit </br>
 would have to investigate how all versions of AppImageKit work in more depth. </br>
-also index cache does Not seem to do a good -Recursive search. </br>
+also index cache / icon preview does Not seem to do a good -Recursive search. </br>
 
 latest Files/Nautilus [49.alpha-e739dc7f9](https://nightly.gnome.org/repo/appstream/org.gnome.NautilusDevel.flatpakref) </br>
 does Not detect any AppImage icon in 20.04.4 LTS + NV126. </br>
@@ -306,13 +306,13 @@ alsa-scarlett-gui                              vu.b4.alsa-scarlett-gui          
 
 Dolphin detects properly all .appimages in 20.04.4 LTS + NV126 </br>
 BUT... Dolphin does Not do a complete -Recursive scan/search. </br>
-Only detects all .appimage icons when enters the folder, when folder is inside another folder only detects 3 random icons for folder preview. </br>
+Only detects .appimage icons when enters the folder, when folder is inside another folder, only detects 3 random icons for folder preview. </br>
 
 Dolphin has another problems, its very dangerous when using NTFS-3G file system with Write-Cache On. </br>
-If you delete a folder or a file in NTFS, file and folder is deleted, BUT... like a Midi Note Stuck, like a latch </br>
-when i expand another folder, deletes all files inside that folder, and then returns to normal behavour. </br>
+If you delete a folder or a file in NTFS, file and folder is deleted, BUT... like a Midi Stuck Note, latch </br>
+when [+] expand another folder, deletes all files inside that folder, and then returns to normal behavour. </br>
 
-Linux deves plan seem to be converting everything to a "generic language" like Go, easy for A.i.  </br>
+Linux devs plan seem to be converting everything to a "generic language" like Go, easy for A.i.  </br>
 and want A.i. to magically solve all problems.  </br>
 LOL </br>
 
