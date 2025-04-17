@@ -12,7 +12,7 @@ BUT... </br>
 could also be a File Manager problem. </br>
 The strange thing is that: </br>
 [Nouveau NV137](https://nouveau.freedesktop.org/CodeNames.html#nv110familymaxwell) driver: all AppImage have icons on [20.04.4 LTS](https://archive.org/details/pearOS_Monterey_64bit-12-beta-2021.07.01) </br>
-[Nouveau NV126](https://nouveau.freedesktop.org/CodeNames.html#nv110familymaxwell) driver: 50% AppImage icons Do Not show on 20.04.4 LTS using the same Nautilus 3.36.3-stable file manager. </br>
+[Nouveau NV126](https://nouveau.freedesktop.org/CodeNames.html#nv110familymaxwell) driver: 50% AppImage icons Do Not show on 20.04.4 LTS using the same Nautilus 3.36 file manager. </br>
 
 from a developer POV, a way of fixing this: </br>
 "becoming an AppImage that has icon on 22.04 using Nvidia driver" </br>
