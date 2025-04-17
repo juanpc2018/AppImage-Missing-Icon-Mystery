@@ -322,3 +322,7 @@ Linux devs plan seem to be converting everything to a "generic language" like Go
 and want A.i. to magically solve all problems.  </br>
 LOL </br>
 
+other thougts: </br>
+would be interesting to test the same app side-by-side packaged with v1 vs. v2 methods </br>
+ISo vs. SquashFS </br>
+
