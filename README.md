@@ -29,7 +29,7 @@ Nautilus detects icons detected by Dolphin. </br>
 
 -------------
 
-Reading [wikipedia](https://en.wikipedia.org/wiki/AppImage) </br>
+Reading [Wikipedia](https://en.wikipedia.org/wiki/AppImage) </br>
 in 2004 AppImage started as Klik </br>
 in 2011 was renamed as PortableLinuxImage, created a web with [537 games](https://portablelinuxgames.org/) </br>
 in 2013 was renamed as AppImage </br>
