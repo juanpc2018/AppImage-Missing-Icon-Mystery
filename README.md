@@ -178,12 +178,20 @@ does Not dinamically / individually scan each AppImage version, only the 1st App
 ![Screenshot_20250416_171343](https://github.com/user-attachments/assets/3ad05be6-9e66-4904-a0b7-98f570e5f6ca) </br>
 
 
-Moved Folder to other place, and Now 0% icons work.  </br>
+Moved /AppImage Folder to other SSD, and Now 0% icons work.  </br>
 makes me believe it could be a Files/Nautilus problem also.  </br>
 
 have installed latest [Files / Nautilus devel Nightly](https://welcome.gnome.org/app/Nautilus/) </br>
 because Normal Files / Nautilus was [deleted](https://flathub.org/apps/search?q=gnome+Nautilus) from Flathub </br>
 but No... same result. </br>
+
+moved only /Audacity folder back to /Downloads </br>
+and some icons work again... </br>
+there is 1 icon different, previously Not visible. </br>
+
+![image](https://github.com/user-attachments/assets/fe954a3c-0d83-4da8-be62-cbd259bb402b) </br>
+
+
 
 ```
 $ flatpak install org.gnome.NautilusDevel.flatpakref
