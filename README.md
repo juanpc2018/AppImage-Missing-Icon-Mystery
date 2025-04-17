@@ -317,29 +317,31 @@ alsa-scarlett-gui                              vu.b4.alsa-scarlett-gui          
 # Bugs
 
 Thunar 1.8.14 </br>
-when Zooms-In too much Ctrl+[+], Newer version icons become missing / dissapear. </br>
+when Zoom-In too much Ctrl+[+], Newer icons become missing / dissapear. </br>
 and appear again when Zoom-Out Ctrl+[-] below the threshold. </br>
+threshold size is same as Nautilus -1 of Max Size. </br>
 ![image](https://github.com/user-attachments/assets/9a98cd01-d92a-4b21-92ad-58d0986acf46) </br>
 ![image](https://github.com/user-attachments/assets/cca97267-9d51-491a-b9c8-127231f06480) </br>
 ![image](https://github.com/user-attachments/assets/4a5a2326-98c9-41f3-a1c8-817214c17145) </br>
 
 Thunar displays Audacity icons better vs. Nautilus, Nautilus has a weird border / frame. </br>
-Thunar threshold size is same as Nautilus -1 of Max Size. </br>
 Thunar allows much more Zoom-in for 8K displays, but does Not work. </br>
 Dolphin 19.12.3 also allows much more Zoom-In vs. Nautilus, and works ok in that. </br>
-![image](https://github.com/user-attachments/assets/b3ec48da-1bf6-4809-9bb8-074413c6b9de) ![image](https://github.com/user-attachments/assets/ad613bb7-bdba-4c0b-b9cf-e728183758fe) </br>
+![image](https://github.com/user-attachments/assets/b3ec48da-1bf6-4809-9bb8-074413c6b9de) </br>
+![image](https://github.com/user-attachments/assets/ad613bb7-bdba-4c0b-b9cf-e728183758fe) </br>
 
 ----------------
 
 # Conclusion
 
-Dolphin detects properly all .appimages in 20.04.4 LTS + NV126 </br>
+Dolphin detects properly all .appimage icons in 20.04.4 LTS + NV126 </br>
 BUT... Dolphin does Not do a complete -Recursive scan/search. </br>
 Only detects .appimage icons when enters the folder, when folder is inside another folder, only detects 3 random icons for folder preview. </br>
 
-Dolphin has another problems, its very dangerous when using NTFS-3G file system with Write-Cache On. </br>
-If you delete a folder or a file in NTFS, file and folder is deleted, BUT... like a Midi Stuck Note, latch </br>
-when [+] expand another folder, deletes all files inside that folder, but Not folders, and then returns to normal behavour. </br>
+Dolphin has other problems: </br>
+its very dangerous when using NTFS-3G file system with Write-Cache On. </br>
+If you delete a folder or a file in NTFS, file and folder are deleted Ok, BUT... like a Midi Stuck Note, latch </br>
+when [+] expand another folder, deletes all files inside the unrelated folder, but Not folders only files, and then returns to normal behavour. </br>
 
 Linux devs plan seem to be converting everything to a "generic language" like Go, easy for A.i.  </br>
 and want A.i. to magically solve all problems.  </br>
