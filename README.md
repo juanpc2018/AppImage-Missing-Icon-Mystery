@@ -310,7 +310,7 @@ Only detects .appimage icons when enters the folder, when folder is inside anoth
 
 Dolphin has another problems, its very dangerous when using NTFS-3G file system with Write-Cache On. </br>
 If you delete a folder or a file in NTFS, file and folder is deleted, BUT... like a Midi Stuck Note, latch </br>
-when [+] expand another folder, deletes all files inside that folder, and then returns to normal behavour. </br>
+when [+] expand another folder, deletes all files inside that folder, but Not folders, and then returns to normal behavour. </br>
 
 Linux devs plan seem to be converting everything to a "generic language" like Go, easy for A.i.  </br>
 and want A.i. to magically solve all problems.  </br>
