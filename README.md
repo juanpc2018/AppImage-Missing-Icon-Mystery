@@ -317,10 +317,11 @@ alsa-scarlett-gui                              vu.b4.alsa-scarlett-gui          
 # Bugs
 
 Thunar 1.8.14 </br>
-![image](https://github.com/user-attachments/assets/9a98cd01-d92a-4b21-92ad-58d0986acf46) </br>
 when Zooms-In too much (Ctrl+[+]), Newer version icons become missing / dissapear. </br>
 and appear again when Zoom-Out below the threshold. </br>
+![image](https://github.com/user-attachments/assets/9a98cd01-d92a-4b21-92ad-58d0986acf46) </br>
 ![image](https://github.com/user-attachments/assets/cca97267-9d51-491a-b9c8-127231f06480) </br>
+![image](https://github.com/user-attachments/assets/4a5a2326-98c9-41f3-a1c8-817214c17145) </br>
 
 ----------------
 
