@@ -194,10 +194,10 @@ there is 1 icon different, previously Not visible. </br>
 There is a severe incompatibility between all different versions of AppImageKit  </br>
 system does Not know how to handle different versions of AppImageKit </br>
 would have to investigate how all versions of AppImageKit work in more depth. </br>
-also cache does Not seem to do a good -Recursive search. </br>
+also index cache does Not seem to do a good -Recursive search. </br>
 
 latest Files/Nautilus 49.alpha-e739dc7f9 </br>
-does Not detect any AppImage icon in /Downloads/Audacity </br>
+does Not detect any AppImage icon in /Downloads </br>
 
 ```
 $ flatpak install org.gnome.NautilusDevel.flatpakref
