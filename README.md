@@ -200,7 +200,9 @@ latest Files/Nautilus [49.alpha-e739dc7f9](https://nightly.gnome.org/repo/appstr
 does Not detect any AppImage icon. </br>
 
 Thunar File Manager has same behaviour as Files/Nautilus 3.36.3-stable </br>
-is Not a File Manager Only problem is a system wide problem. </br>
+Dolphin works almost perfect, detects almost all .appimage icons on any drive. </br>
+![image](https://github.com/user-attachments/assets/551f1f2f-436f-4c89-8b70-c75991f0e720) </br>
+
 
 ```
 $ flatpak install org.gnome.NautilusDevel.flatpakref
