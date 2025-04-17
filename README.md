@@ -25,7 +25,7 @@ from an User POV: </br>
 a workaround is using Dolphin File Manager, </br>
 then return to Nautilus. </br>
 Dolphin detects all icons on the 1st folder, and 3 icons in sub-folders. </br>
-Nautilus detects icons detected by Dolphin. </br>
+Nautilus & Thunar detect icons detected by Dolphin. </br>
 
 -------------
 
