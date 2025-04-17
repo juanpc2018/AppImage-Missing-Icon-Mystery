@@ -55,6 +55,7 @@ https://github.com/AppImage/AppImageKit/blob/master/README.md </br>
 https://github.com/AppImageCommunity </br>
 https://github.com/probonopd?tab=repositories </br>
 https://github.com/TheAssassin/AppImageLauncher </br>
+https://github.com/AppImageCommunity/libappimage & [versions list](https://repology.org/project/libappimage/versions) </br>
 https://en.wikipedia.org/wiki/Nouveau_(software) </br>
 https://nouveau.freedesktop.org/FeatureMatrix.html </br>
 https://nouveau.freedesktop.org/VideoAcceleration.html </br>
