@@ -31,7 +31,7 @@ from User POV: </br>
 a workaround is using Dolphin File Manager, </br>
 then return to Nautilus. </br>
 Dolphin detects all appimage icons on the 1st folder, and 3 icons in sub-folders. </br>
-Nautilus & Thunar display icons detected by Dolphin. </br>
+Nautilus & Thunar display icons detected by Dolphin, read the same cache .folder </br>
 
 20.04.4 LTS has Nautilus 3.36.3-stable </br>
 but installing latest version does Not solve the problems on 20.04.4 LTS. </br>
