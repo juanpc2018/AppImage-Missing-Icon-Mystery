@@ -66,7 +66,7 @@ P400 requires a fast board & CPU, Nouveau driver NV137 lacks optimization, has p
 latest Windows8.1x64 driver works better, but... sometimes crash & reboots the system. </br>
 seems [FireFox](https://www.mozilla.org/en-US/firefox/all/desktop-release/) minimum Requirements for YouTube are 8-core CPU + gpu with PCIe v3, maybe 4GB of VRaM also. </br>
 NVIDIA propietary driver seems to piggyback Video Decoding & 3D Acceleration Load using CPU MMX, SSE instructions, </br>
-but Nouveau driver does Not, when GPU acceleration works. </br>
+but Nouveau driver works different when GPU acceleration works. </br>
 
 20.04 also has i386 installed, have to test again without i386 </br>
 but seems 32-Bit AppImages only run in 32-Bit OS, </br>
