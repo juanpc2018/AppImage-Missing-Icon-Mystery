@@ -314,6 +314,16 @@ alsa-scarlett-gui                              vu.b4.alsa-scarlett-gui          
 
 ----------------
 
+# Bugs
+
+Thunar 1.8.14 </br>
+![image](https://github.com/user-attachments/assets/9a98cd01-d92a-4b21-92ad-58d0986acf46) </br>
+when Zooms-In too much, Newer AppImageKit icons become missing / dissapear. </br>
+and appear again when Zoom-Out the threshold. </br>
+![image](https://github.com/user-attachments/assets/cca97267-9d51-491a-b9c8-127231f06480) </br>
+
+----------------
+
 # Conclusion
 
 Dolphin detects properly all .appimages in 20.04.4 LTS + NV126 </br>
