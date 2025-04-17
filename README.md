@@ -21,9 +21,11 @@ from a developer POV, a way of fixing this: </br>
 is using a Different AppImageKit version, sometimes older, sometimes newer. </br>
 a different package method like [Sharun](https://github.com/VHSgunzo/sharun) may Not work on NV126 </br>
 
-from an User POV: a workaround is using Dolphin File Manager, </br>
-then return to Nautilus, Dolphin detects icons in the 1st folder, and 3 in sub-folders. </br>
-Neutilus detects the icons detected by Dolphin. </br>
+from an User POV: </br>
+a workaround is using Dolphin File Manager, </br>
+then return to Nautilus. </br>
+Dolphin detects all icons on the 1st folder, and 3 icons in sub-folders. </br>
+Nautilus detects icons detected by Dolphin. </br>
 
 -------------
 
