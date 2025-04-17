@@ -9,12 +9,14 @@ downloading many [AppImages](https://www.appimagehub.com/browse) </br>
 using different Nvidia Propietary drivers 470 510 525 535 </br>
 older drivers could be "incomplete". </br>
 BUT... </br>
-could also be a File Manager problem. </br>
+could also be a File Manager problem, different File manager versions. </br>
+
 The strange thing is that: </br>
 [Nouveau NV137](https://nouveau.freedesktop.org/CodeNames.html#nv110familymaxwell) driver: all AppImage have icons on [20.04.4 LTS](https://archive.org/details/pearOS_Monterey_64bit-12-beta-2021.07.01) </br>
 [Nouveau NV126](https://nouveau.freedesktop.org/CodeNames.html#nv110familymaxwell) driver: 50% AppImage icons Do Not show on 20.04.4 LTS using the same Nautilus file manager. </br>
 
-from a developer POV, a way of fixing this: </br>
+from a developer POV: </br>
+a way of fixing this </br>
 "becoming an AppImage that has icon on 22.04 using Nvidia driver" </br>
 &/or </br>
 "becoming an AppImage that has icon on 20.04 using Nouveau NV126 driver" </br>
@@ -26,6 +28,9 @@ a workaround is using Dolphin File Manager, </br>
 then return to Nautilus. </br>
 Dolphin detects all appimage icons on the 1st folder, and 3 icons in sub-folders. </br>
 Nautilus & Thunar detect icons detected by Dolphin. </br>
+
+20.04.4 LTS has Nautilus 3.36.3-stable </br>
+but latest version does Not solve the problems on 20.04.4 LTS. </br>
 
 -------------
 
