@@ -206,18 +206,18 @@ would have to investigate how all versions of AppImageKit work in more depth. </
 also index cache does Not seem to do a good -Recursive search. </br>
 
 latest Files/Nautilus [49.alpha-e739dc7f9](https://nightly.gnome.org/repo/appstream/org.gnome.NautilusDevel.flatpakref) </br>
-does Not detect any AppImage icon. </br>
+does Not detect any AppImage icon in 20.04.4 LTS + NV126. </br>
 
 Thunar File Manager has same behaviour/problem as Files/Nautilus 3.36.3-stable </br>
 
-Dolphin works almost perfect, detects almost all .appimage icons on any drive. </br>
+Dolphin works almost perfect, detects all .appimage icons on any drive. </br>
 ![image](https://github.com/user-attachments/assets/551f1f2f-436f-4c89-8b70-c75991f0e720) </br>
 ![image](https://github.com/user-attachments/assets/f9f3bae9-efee-419c-839b-c311cecd7c84) </br>
 
-Back to Thunar, and Now Thunar displays all icons detected by Dolphin. </br>
+Back to Thunar, Now Thunar displays all icons detected by Dolphin. </br>
 ![image](https://github.com/user-attachments/assets/4a5a2326-98c9-41f3-a1c8-817214c17145) </br>
 
-Back to Files/Nautilus 3.36.3, and displaus all icons dectected by Dolphin, but has a weird "Loading..." </br>
+Back to Files/Nautilus 3.36.3-stable, displaus all icons dectected by Dolphin, but has a weird "Loading..." </br>
 ![image](https://github.com/user-attachments/assets/33be50d5-0be5-4724-af43-a3fb0a6a637b) </br>
 ![image](https://github.com/user-attachments/assets/c852db34-9dac-480c-bbc1-66973e72c408) </br>
 
