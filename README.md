@@ -178,7 +178,7 @@ does Not dinamically / individually scan each AppImage version, only the 1st App
 ![Screenshot_20250416_171343](https://github.com/user-attachments/assets/3ad05be6-9e66-4904-a0b7-98f570e5f6ca) </br>
 
 
-Moved /AppImage Folder to other SSD, and Now 0% icons work.  </br>
+Moved /AppImage Folder to other SSD formatted as XFS, 0% icons work. </br>
 it could be a Files/Nautilus 3.36.3-stable problem also.  </br>
 
 have installed latest [Files / Nautilus devel Nightly](https://welcome.gnome.org/app/Nautilus/) </br>
@@ -196,8 +196,8 @@ system does Not know how to handle different versions of AppImageKit </br>
 would have to investigate how all versions of AppImageKit work in more depth. </br>
 also cache does Not seem to do a good -Recursive search. </br>
 
-latest Files 49.alpha-e739dc7f9 </br>
-does Not detect any AppImage icon. </br>
+latest Files/Nautilus 49.alpha-e739dc7f9 </br>
+does Not detect any AppImage icon in /Downloads/Audacity </br>
 
 ```
 $ flatpak install org.gnome.NautilusDevel.flatpakref
