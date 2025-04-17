@@ -38,7 +38,7 @@ the problem is also, something else. </br>
 Reading [Wikipedia](https://en.wikipedia.org/wiki/AppImage) </br>
 in 2004 AppImage started as [Klik](https://dot.kde.org/2005/09/16/dont-install-just-copy-klik/) </br>
 in 2011 was renamed as PortableLinuxImage, created a web with [537 games](https://portablelinuxgames.org/) </br>
-in 2013 was renamed as AppImage </br>
+in 2013 was renamed as [AppImage](https://web.archive.org/web/20131212144440/http://portablelinuxapps.org/) </br>
 in 2016 version 2 renamed as [AppImageKit](https://web.archive.org/web/20160124132833/https://github.com/probonopd/AppImageKit/wiki/Creating-AppImages), also has a web with [1454 apps](https://appimage.github.io/apps/) similar to [appimagehub.com](https://www.appimagehub.com/browse) </br>
 in 2025 renamed as [AppImageTool](https://github.com/AppImage/appimagetool/releases/tag/continuous) </br>
 
