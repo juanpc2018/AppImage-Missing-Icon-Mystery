@@ -277,11 +277,6 @@ alsa-scarlett-gui                              vu.b4.alsa-scarlett-gui          
 
 # Conclusion
 
-some key developers spend all their time & energy creating spyware </br>
-
-Bugs are accumulating like crazy, to insane levels. </br>
-want to create a New OS to replace the Old.  </br>
-
 their plan seem to be converting everything to Go generic language easy for A.i.  </br>
 and want A.i. to magically solve all problems.  </br>
 LOL </br>
