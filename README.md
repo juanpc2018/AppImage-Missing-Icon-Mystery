@@ -179,7 +179,7 @@ does Not dinamically / individually scan each AppImage version, only the 1st App
 
 
 Moved /AppImage Folder to other SSD, and Now 0% icons work.  </br>
-makes me believe it could be a Files/Nautilus problem also.  </br>
+it could be a Files/Nautilus 3.36.3-stable problem also.  </br>
 
 have installed latest [Files / Nautilus devel Nightly](https://welcome.gnome.org/app/Nautilus/) </br>
 because Normal Files / Nautilus was [deleted](https://flathub.org/apps/search?q=gnome+Nautilus) from Flathub </br>
@@ -192,8 +192,12 @@ there is 1 icon different, previously Not visible. </br>
 ![image](https://github.com/user-attachments/assets/fe954a3c-0d83-4da8-be62-cbd259bb402b) </br>
 
 There is a severe incompatibility between all different versions of AppImageKit  </br>
-system does Not know how to handle different versions of AppImageKit. </br>
+system does Not know how to handle different versions of AppImageKit </br>
 would have to investigate how all versions of AppImageKit work in more depth. </br>
+also cache does Not seem to do a good -Recursive search. </br>
+
+latest Files 49.alpha-e739dc7f9 </br>
+does Not detect any AppImage icon. </br>
 
 ```
 $ flatpak install org.gnome.NautilusDevel.flatpakref
