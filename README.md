@@ -34,7 +34,7 @@ Dolphin detects all appimage icons on the 1st folder, and 3 icons in sub-folders
 Nautilus & Thunar detect icons detected by Dolphin. </br>
 
 20.04.4 LTS has Nautilus 3.36.3-stable </br>
-but latest version does Not solve the problems on 20.04.4 LTS. </br>
+but installing latest version does Not solve the problems on 20.04.4 LTS. </br>
 the problem is also, something else. </br>
 Driver Problem + File Manager problem + something else. </br> 
 
