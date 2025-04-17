@@ -36,7 +36,7 @@ the problem is also, something else. </br>
 -------------
 
 Reading [Wikipedia](https://en.wikipedia.org/wiki/AppImage) </br>
-in 2004 AppImage started as Klik </br>
+in 2004 AppImage started as [Klik](https://dot.kde.org/2005/09/16/dont-install-just-copy-klik/) </br>
 in 2011 was renamed as PortableLinuxImage, created a web with [537 games](https://portablelinuxgames.org/) </br>
 in 2013 was renamed as AppImage </br>
 in 2016 version 2 renamed as AppImageKit, also has a web with [1454 apps](https://appimage.github.io/apps/) similar to [appimagehub.com](https://www.appimagehub.com/browse) </br>
@@ -44,12 +44,15 @@ in 2025 renamed as [AppImageTool](https://github.com/AppImage/appimagetool/relea
 
 version 1 was ISO 9660 CD-Rom image, </br>
 version 2 has [SquashFS](https://en.wikipedia.org/wiki/SquashFS) type FileSystem "Read Only FileType" </br>
-similar to snap, but portable. </br>
+similar to snap & flatpak but portable. </br>
+
+[Interview with developer](https://itsfoss.com/appimage-interview/) </br>
 
 Official links: </br>
 https://appimage.org/ </br>
 https://github.com/AppImage/AppImageKit </br>
 https://github.com/AppImage/AppImageKit/blob/master/README.md </br>
+https://github.com/AppImageCommunity </br>
 https://en.wikipedia.org/wiki/Nouveau_(software) </br>
 https://nouveau.freedesktop.org/FeatureMatrix.html </br>
 https://nouveau.freedesktop.org/VideoAcceleration.html </br>
