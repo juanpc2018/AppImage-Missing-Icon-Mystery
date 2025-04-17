@@ -263,3 +263,17 @@ alsa-scarlett-gui                              vu.b4.alsa-scarlett-gui          
 ```
 ![image](https://github.com/user-attachments/assets/32bcd5e4-9838-485b-8369-211e96cf4deb) </br>
 
+----------------
+
+# Conlusion
+
+some key developers spend all their time & energy creating spyware </br>
+Not solving bugs. </br>
+
+Bugs are accumulating like crazy, to insane levels. </br>
+instead of solving Bugs, want to create a New OS to replace the Old.  </br>
+
+their plan seem to be converting everything to Go or a generic language easy for A.i.  </br>
+and want A.i. to magically solve all problems.  </br>
+LOL </br>
+
