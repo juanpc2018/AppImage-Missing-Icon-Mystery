@@ -39,7 +39,7 @@ Reading [Wikipedia](https://en.wikipedia.org/wiki/AppImage) </br>
 in 2004 AppImage started as Klik </br>
 in 2011 was renamed as PortableLinuxImage, created a web with [537 games](https://portablelinuxgames.org/) </br>
 in 2013 was renamed as AppImage </br>
-in 2016 version 2 renamed as AppImageKit, also has a web with [1454 apps](https://appimage.github.io/apps/) </br>
+in 2016 version 2 renamed as AppImageKit, also has a web with [1454 apps](https://appimage.github.io/apps/) similar to [appimagehub.com](https://www.appimagehub.com/browse) </br>
 in 2025 renamed as [AppImageTool](https://github.com/AppImage/appimagetool/releases/tag/continuous) </br>
 
 version 1 was ISO 9660 CD-Rom image, </br>
