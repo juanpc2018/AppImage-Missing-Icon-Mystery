@@ -199,6 +199,9 @@ also index cache does Not seem to do a good -Recursive search. </br>
 latest Files/Nautilus [49.alpha-e739dc7f9](https://nightly.gnome.org/repo/appstream/org.gnome.NautilusDevel.flatpakref) </br>
 does Not detect any AppImage icon. </br>
 
+Thunar File Manager has same behaviour as Files/Nautilus 3.36.3-stable </br>
+is Not a File Manager Only problem is a system wide problem. </br>
+
 ```
 $ flatpak install org.gnome.NautilusDevel.flatpakref
 The remote 'gnome-nightly', referred to by 'org.gnome.NautilusDevel' at location https://nightly.gnome.org/repo/ contains additional applications.
