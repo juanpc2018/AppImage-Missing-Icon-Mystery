@@ -196,7 +196,7 @@ system does Not know how to handle different versions of AppImageKit </br>
 would have to investigate how all versions of AppImageKit work in more depth. </br>
 also index cache does Not seem to do a good -Recursive search. </br>
 
-latest Files/Nautilus 49.alpha-e739dc7f9 </br>
+latest Files/Nautilus [49.alpha-e739dc7f9](https://nightly.gnome.org/repo/appstream/org.gnome.NautilusDevel.flatpakref) </br>
 does Not detect any AppImage icon in /Downloads </br>
 
 ```
