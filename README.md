@@ -191,7 +191,9 @@ there is 1 icon different, previously Not visible. </br>
 
 ![image](https://github.com/user-attachments/assets/fe954a3c-0d83-4da8-be62-cbd259bb402b) </br>
 
-
+There is a severe incompatibility between all different versions of AppImageKit  </br>
+system does Not know how to handle different versions of AppImageKit. </br>
+would have to investigate how all versions of AppImageKit work in more depth. </br>
 
 ```
 $ flatpak install org.gnome.NautilusDevel.flatpakref
