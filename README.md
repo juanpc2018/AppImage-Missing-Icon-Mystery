@@ -6,21 +6,28 @@ downloading many [AppImages](https://www.appimagehub.com/browse) </br>
 0% AppImages have Icon on 20.04.6 LTS "File Manager Large Icon View Nautilus" </br>
 50% AppImages show icon on 22.04 LTS, 50% don't.</br>
 100% has icons on 24.04 LTS </br>
-
 using different Nvidia Propietary drivers 470 510 525 535 </br>
-older drivers are "incomplete". </br>
-BUT...</br>
+older drivers could be "incomplete". </br>
+BUT... </br>
+could also be a File Manager problem. </br>
+The strange thing is that: </br>
 [Nouveau NV137](https://nouveau.freedesktop.org/CodeNames.html#nv110familymaxwell) driver: all AppImage have icons on [20.04.4 LTS](https://archive.org/details/pearOS_Monterey_64bit-12-beta-2021.07.01) </br>
-Nouveau NV126 driver: 25% AppImage icons Do Not show on 20.04.4 LTS </br>
+Nouveau NV126 driver: 50% AppImage icons Do Not show on 20.04.4 LTS using the same Nautilus 3.36.3-stable. </br>
 
-the only way fixing this problem: </br>
-"becoming an AppImage that has icon on 22.04 using Nvidia driver"</br>
+from a developer POV, a way of fixing this: </br>
+"becoming an AppImage that has icon on 22.04 using Nvidia driver" </br>
 &/or </br>
-"becoming an AppImage that has icon on 20.04 using Nouveau NV126 driver"</br>
+"becoming an AppImage that has icon on 20.04 using Nouveau NV126 driver" </br>
 is using a Different AppImageKit version, sometimes older, sometimes newer. </br>
 a different package method like [Sharun](https://github.com/VHSgunzo/sharun) may Not work on NV126 </br>
 
-reading [wikipedia](https://en.wikipedia.org/wiki/AppImage) </br>
+from an User POV: a workaround is using Dolphin File Manager, </br>
+then return to Nautilus, Dolphin detects icons in the 1st folder, and 3 in sub-folders. </br>
+Neutilus detects the icons detected by Dolphin. </br>
+
+-------------
+
+Reading [wikipedia](https://en.wikipedia.org/wiki/AppImage) </br>
 in 2004 AppImage started as Klik </br>
 in 2011 was renamed as PortableLinuxImage, created a web with [537 games](https://portablelinuxgames.org/) </br>
 in 2013 was renamed as AppImage </br>
@@ -303,7 +310,7 @@ Dolphin has another problems, its very dangerous when using NTFS-3G file system 
 If you delete a folder or a file in NTFS, file and folder is deleted, BUT... like a Midi Note Stuck, like a latch </br>
 when i expand another folder, deletes all files inside that folder, and then returns to normal behavour. </br>
 
-the plan seem to be converting everything to Go generic language easy for A.i.  </br>
+Linux deves plan seem to be converting everything to a "generic language" like Go, easy for A.i.  </br>
 and want A.i. to magically solve all problems.  </br>
 LOL </br>
 
