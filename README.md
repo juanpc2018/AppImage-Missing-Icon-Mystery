@@ -197,7 +197,7 @@ would have to investigate how all versions of AppImageKit work in more depth. </
 also index cache does Not seem to do a good -Recursive search. </br>
 
 latest Files/Nautilus [49.alpha-e739dc7f9](https://nightly.gnome.org/repo/appstream/org.gnome.NautilusDevel.flatpakref) </br>
-does Not detect any AppImage icon in /Downloads </br>
+does Not detect any AppImage icon. </br>
 
 ```
 $ flatpak install org.gnome.NautilusDevel.flatpakref
