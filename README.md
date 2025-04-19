@@ -61,6 +61,8 @@ https://github.com/AppImageCommunity </br>
 https://github.com/probonopd?tab=repositories </br>
 https://github.com/TheAssassin/AppImageLauncher </br>
 https://github.com/AppImageCommunity/libappimage & [versions list](https://repology.org/project/libappimage/versions) </br>
+https://github.com/AppImageCommunity/awesome-appimage#appimage-developer-tools </br>
+https://github.com/orgs/AppImage/repositories </br>
 https://en.wikipedia.org/wiki/Nouveau_(software) </br>
 https://nouveau.freedesktop.org/FeatureMatrix.html </br>
 https://nouveau.freedesktop.org/VideoAcceleration.html </br>
@@ -77,11 +79,11 @@ The oldest AppImageKit Prerelease-1 has a [.pdf](https://github.com/AppImage/App
 [Quadro M2000 (2016)](https://www.techpowerup.com/gpu-specs/quadro-m2000.c2837) </br>
 
 ### FAIL: </br>
-[Quadro 6000 (2010)](https://www.techpowerup.com/gpu-specs/quadro-6000.c896) Nouveau driver [NVC0GL](https://nouveau.freedesktop.org/CodeNames.html#NVC0) has "Pink Screen of Death" on [20.04.4 LTS](https://archive.org/details/pearOS_Monterey_64bit-12-beta-2021.07.01) </br>
+[Quadro 6000 (2010)](https://www.techpowerup.com/gpu-specs/quadro-6000.c896) Nouveau driver [NVC0 GL](https://nouveau.freedesktop.org/CodeNames.html#NVC0) has "Pink Screen of Death" on [20.04.4 LTS](https://archive.org/details/pearOS_Monterey_64bit-12-beta-2021.07.01) </br>
 
 P400 requires a fast board & CPU, Nouveau driver NV137 lacks optimization, has poor video playback on YouTube, skips frames, etc... </br>
 latest Windows8.1x64 driver works better, but... sometimes crash & reboots the system. </br>
-seems [FireFox](https://www.mozilla.org/en-US/firefox/all/desktop-release/) minimum Requirements for YouTube are 8-core CPU + gpu with PCIe v3, maybe 4GB of VRaM also. </br>
+seems [FireFox](https://www.mozilla.org/en-US/firefox/all/desktop-release/) minimum Requirements for YouTube are 8-core CPU + gpu with PCIe v3, maybe 4GB of vRAM also & 8GB of Ram minimum. </br>
 NVIDIA propietary driver seems to piggyback Video Decoding & 3D Acceleration Load using CPU MMX, SSE instructions, </br>
 but Nouveau driver works different when GPU acceleration works. </br>
 
