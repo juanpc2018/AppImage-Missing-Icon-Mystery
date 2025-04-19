@@ -4,8 +4,8 @@ have Noticed something strange... </br>
 downloading many [AppImages](https://www.appimagehub.com/browse) </br>
 
 0% AppImages have Icon on [20.04.6 LTS](https://www.releases.ubuntu.com/focal/ubuntu-20.04.6-desktop-amd64.iso.torrent) "File Manager, Large Icon View, Nautilus" </br>
-50% AppImages show icon on 22.04 LTS, 50% don't.</br>
-100% has icons on 24.04 LTS </br>
+50% AppImages show icon on [22.04.5 LTS](https://releases.ubuntu.com/22.04/ubuntu-22.04.5-desktop-amd64.iso.torrent), 50% don't.</br>
+100% has icons on [24.04.0-2 LTS](https://releases.ubuntu.com/24.04/ubuntu-24.04.2-desktop-amd64.iso.torrent) </br>
 using different Nvidia Propietary drivers 470 510 525 535 </br>
 older drivers maybe "incomplete". </br>
 BUT... </br>
@@ -15,9 +15,10 @@ The strange thing is that: </br>
 [Nouveau NV137](https://nouveau.freedesktop.org/CodeNames.html#nv110familymaxwell) driver: all AppImage have icons on [20.04.4 LTS](https://archive.org/details/pearOS_Monterey_64bit-12-beta-2021.07.01) </br>
 [Nouveau NV126](https://nouveau.freedesktop.org/CodeNames.html#nv110familymaxwell) driver: 50% AppImage Do Not have Icons on [20.04.4 LTS](https://archive.org/details/pearOS_Monterey_64bit-12-beta-2021.07.01) with the same Nautilus file manager. </br>
 
-doing tests on the same 20.04.4 LTS, just swapping the GPU,  </br>
+doing tests on the same 20.04.4 LTS, just swapping GPU,  </br>
 is Not a proper test, because previous test with NV137 detects some appimage icons, and stores icon in cache, </br>
 become visible with NV126 drivers, but eventually after a few changes in the folder and reboot, icons become missing again. </br>
+to delete  Thumbnails  some recommend: [BleachBit](https://www.bleachbit.org/download/linux).[src](https://github.com/bleachbit/bleachbit/releases).[running](https://docs.bleachbit.org/dev/running-from-source-code.html) </br>
 
 from a developer POV: </br>
 a way of fixing this </br>
