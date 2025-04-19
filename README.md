@@ -63,6 +63,7 @@ https://github.com/TheAssassin/AppImageLauncher </br>
 https://github.com/AppImageCommunity/libappimage & [versions list](https://repology.org/project/libappimage/versions) </br>
 https://github.com/AppImageCommunity/awesome-appimage#appimage-developer-tools </br>
 https://github.com/orgs/AppImage/repositories </br>
+https://appimage-builder.readthedocs.io/en/latest/intro/tutorial.html </br>
 https://en.wikipedia.org/wiki/Nouveau_(software) </br>
 https://nouveau.freedesktop.org/FeatureMatrix.html </br>
 https://nouveau.freedesktop.org/VideoAcceleration.html </br>
