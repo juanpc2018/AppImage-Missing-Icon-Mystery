@@ -3,7 +3,7 @@
 have Noticed something strange... </br>
 downloading many [AppImages](https://www.appimagehub.com/browse) </br>
 
-0% AppImages have Icon on 20.04.6 LTS "File Manager Large Icon View Nautilus" </br>
+0% AppImages have Icon on [20.04.6 LTS](https://www.releases.ubuntu.com/focal/ubuntu-20.04.6-desktop-amd64.iso.torrent) "File Manager, Large Icon View, Nautilus" </br>
 50% AppImages show icon on 22.04 LTS, 50% don't.</br>
 100% has icons on 24.04 LTS </br>
 using different Nvidia Propietary drivers 470 510 525 535 </br>
