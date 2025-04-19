@@ -33,7 +33,7 @@ then return to Nautilus. </br>
 Dolphin detects all appimage icons on the 1st folder, and 3 icons in sub-folders. </br>
 Nautilus & Thunar display icons detected by Dolphin, read the same cache .folder </br>
 
-20.04.4 LTS has Nautilus 3.36.3-stable </br>
+[20.04.4 LTS](https://archive.org/details/pearOS_Monterey_64bit-12-beta-2021.07.01) has Nautilus 3.36.3-stable </br>
 but installing latest version does Not solve the problems on 20.04.4 LTS. </br>
 the problem is also, something else. </br>
 Driver Problem + File Manager problem + something else. </br> 
