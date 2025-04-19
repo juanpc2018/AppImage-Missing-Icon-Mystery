@@ -347,14 +347,12 @@ Only detects .appimage icons when enters the folder, when folder is inside anoth
 
 Dolphin has other problems: </br>
 its very dangerous when using NTFS-3G file system with Write-Cache On. </br>
-If you delete a folder or a file in NTFS, file and folder are deleted Ok, BUT... like a Midi Stuck Note, latch </br>
-when [+] expand another folder, deletes all files inside the unrelated folder, but Not folders only files, and then returns to normal behavour. </br>
+If you delete a folder or a file in NTFS external USB3.0 drive, file & folder are deleted Ok, BUT... like a Midi Stuck Note, latch </br>
+when [+] expand another unrelated folder, deletes all files inside the unrelated folder, but does Not delete folders, only files, and then returns to normal behavour. </br>
 
 Linux devs plan seem to be converting everything to a "generic language" like Go, easy for A.i.  </br>
 and want A.i. to magically solve all problems.  </br>
 LOL </br>
 
-other thougts: </br>
 would be interesting to test the same app side-by-side packaged with v1 vs. v2 methods </br>
-ISo vs. SquashFS </br>
-
+ISO vs. SquashFS </br>
