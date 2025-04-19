@@ -18,7 +18,7 @@ The strange thing is that: </br>
 doing tests on the same 20.04.4 LTS, just swapping GPU,  </br>
 is Not a proper test, because previous test with NV137 detects some appimage icons, and stores icon in cache, </br>
 become visible with NV126 drivers, but eventually after a few changes in the folder and reboot, icons become missing again. </br>
-to delete  Thumbnails  some recommend: [BleachBit](https://www.bleachbit.org/download/linux).[src](https://github.com/bleachbit/bleachbit/releases).[running](https://docs.bleachbit.org/dev/running-from-source-code.html) </br>
+to delete Thumbnails some recommend: [BleachBit](https://www.bleachbit.org/download/linux).[src](https://github.com/bleachbit/bleachbit/releases).[running](https://docs.bleachbit.org/dev/running-from-source-code.html).[v3.0](https://sourceforge.net/projects/bleachbit/files/bleachbit/3.0/).[v3.2](https://sourceforge.net/projects/bleachbit/files/bleachbit/3.2.0/) for Ubuntu 14.04-19.10 </br>
 
 from a developer POV: </br>
 a way of fixing this </br>
