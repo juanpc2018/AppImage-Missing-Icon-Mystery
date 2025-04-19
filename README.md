@@ -236,7 +236,7 @@ Dolphin works almost perfect, detects all .appimage icons on any drive. </br>
 Back to Thunar, Now Thunar displays all icons detected by Dolphin. </br>
 ![image](https://github.com/user-attachments/assets/4a5a2326-98c9-41f3-a1c8-817214c17145) </br>
 
-Back to Files/Nautilus 3.36.3-stable, displaus all icons dectected by Dolphin, but has a weird "Loading..." </br>
+Back to Files/Nautilus 3.36.3-stable, displays all icons dectected by Dolphin, but has a weird "Loading..." </br>
 ![image](https://github.com/user-attachments/assets/33be50d5-0be5-4724-af43-a3fb0a6a637b) </br>
 ![image](https://github.com/user-attachments/assets/c852db34-9dac-480c-bbc1-66973e72c408) </br>
 
