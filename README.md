@@ -20,7 +20,7 @@ is Not a proper test, because previous test with NV137 detects some appimage ico
 become visible with NV126 drivers, but eventually after a few changes in the folder and reboot, icons become missing again. </br>
 to delete Thumbnails some recommend: </br>
 [BleachBit](https://www.bleachbit.org/download/linux).[src](https://github.com/bleachbit/bleachbit/releases).[running](https://docs.bleachbit.org/dev/running-from-source-code.html) </br>
-Latest [v4.9.2](https://sourceforge.net/projects/bleachbit/files/bleachbit/4.9.2/) </br>
+for Ubuntu 20.04 - 24.10 [v4.9.2](https://sourceforge.net/projects/bleachbit/files/bleachbit/4.9.2/) </br>
 for Ubuntu 14.04 - 19.10 [v2.0](https://sourceforge.net/projects/bleachbit/files/bleachbit/2.0/).[v2.2](https://sourceforge.net/projects/bleachbit/files/bleachbit/2.2/).[v3.0](https://sourceforge.net/projects/bleachbit/files/bleachbit/3.0/).[v3.2](https://sourceforge.net/projects/bleachbit/files/bleachbit/3.2.0/) </br>
 for Ubuntu 8.04 [v0.9.0](https://sourceforge.net/projects/bleachbit/files/bleachbit/0.9.0/)-[v0.9.3](https://sourceforge.net/projects/bleachbit/files/bleachbit/0.9.3/) </br>
 
