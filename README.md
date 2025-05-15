@@ -103,7 +103,7 @@ requires [additional steps](https://github.com/RazZziel/PortableLinuxGames/wiki/
 ### Untested: </br>
 [AMDgpu](https://en.wikipedia.org/wiki/AMDgpu_(Linux_kernel_module)) </br>
 
-## AppImage Icons tested: </br>
+## AppImage Icons tested in Nautilus 3.36.3-stable </br>
 #### FAIL 20.04.4 LTS + NV126: </br>
 [audacity-linux-3.0.4 to 3.7.0](https://github.com/audacity/audacity/releases/) </br>
 [mpv-v0.40.0-42-g36ea2354b-anylinux-x86_64](https://github.com/pkgforge-dev/mpv-AppImage/releases) icon dont work but app works ok. </br>
