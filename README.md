@@ -43,6 +43,9 @@ but installing latest version does Not solve the problems on 20.04.4 LTS. </br>
 the problem is also, something else. </br>
 Driver Problem + File Manager problem + something else. </br> 
 
+Dolphin 19.12.3 works ok with NV126 on 20.04.4 LTS </br>
+
+
 -------------
 
 Reading [Wikipedia](https://en.wikipedia.org/wiki/AppImage) </br>
